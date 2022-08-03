@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-publc-static-variable-life",
+  "id": "vba-publc-static-variable-life",
+  "title": "Public, Static and Variable's Life",
+  "description": "In the following sections we will discussed about following topics:",
+  "source": "@site/docs/vba/10-vba-publc-static-variable-life.md",
+  "sourceDirName": ".",
+  "slug": "/vba-publc-static-variable-life",
+  "permalink": "/vba/vba-publc-static-variable-life",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Public, Static and Variable's Life",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/publc-static-variable-life/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variable Scope",
+    "permalink": "/vba/vba-variable-scope"
+  },
+  "next": {
+    "title": "VBA Constants",
+    "permalink": "/vba/vba-constant"
+  }
+}

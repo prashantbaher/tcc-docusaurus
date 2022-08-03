@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-programming-concepts",
+  "id": "vba-programming-concepts",
+  "title": "Programming Concepts, Comments and Data-types",
+  "description": "Visual Basic for application (VBA) is a real, live programming language, it uses many elements common to all programming languages.",
+  "source": "@site/docs/vba/06-vba-programming-concepts.md",
+  "sourceDirName": ".",
+  "slug": "/vba-programming-concepts",
+  "permalink": "/vba/vba-programming-concepts",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Programming Concepts, Comments and Data-types",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/programming-concepts/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Executing Sub and Function Procedures",
+    "permalink": "/vba/vba-executing-procedures"
+  },
+  "next": {
+    "title": "VBA Variables",
+    "permalink": "/vba/vba-variables"
+  }
+}

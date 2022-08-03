@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vbe-windows",
+  "id": "vbe-windows",
+  "title": "VBE Windows",
+  "description": "In this post we look following windows in Visual Basic Editor:",
+  "source": "@site/docs/vba/03-vbe-windows.md",
+  "sourceDirName": ".",
+  "slug": "/vbe-windows",
+  "permalink": "/vba/vbe-windows",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "VBE Windows",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/vba-windows/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visual Basic Editor (VBE)",
+    "permalink": "/vba/vbe-editor"
+  },
+  "next": {
+    "title": "Sub and Function Procedures",
+    "permalink": "/vba/vba-sub-and-function-procedure"
+  }
+}

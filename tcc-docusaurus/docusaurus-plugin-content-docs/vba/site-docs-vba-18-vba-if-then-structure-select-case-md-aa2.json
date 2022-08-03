@@ -1,0 +1,31 @@
+{
+  "unversionedId": "vba-if-then-structure-select-case",
+  "id": "vba-if-then-structure-select-case",
+  "title": "If-Then-Else and Select Case structure",
+  "description": "If-Then is VBA’s most important control structure. You’ll probably use this command on a daily basis.",
+  "source": "@site/docs/vba/18-vba-if-then-structure-select-case.md",
+  "sourceDirName": ".",
+  "slug": "/vba-if-then-structure-select-case",
+  "permalink": "/vba/vba-if-then-structure-select-case",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "title": "If-Then-Else and Select Case structure",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/if-then-structure-select-case/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Controlling Program Flow and Making Decisions",
+    "permalink": "/vba/vba-controlling-flow-making-desicions"
+  }
+}

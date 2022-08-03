@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-userform",
+  "id": "vba-userform",
+  "title": "VBA UserForms",
+  "description": "A UserForm is useful if your VBA macro needs to get information from a user.",
+  "source": "@site/docs/vba/27-vba-userform.md",
+  "sourceDirName": ".",
+  "slug": "/vba-userform",
+  "permalink": "/vba/vba-userform",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 27,
+  "frontMatter": {
+    "title": "VBA UserForms",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/userform/"
+  }
+}

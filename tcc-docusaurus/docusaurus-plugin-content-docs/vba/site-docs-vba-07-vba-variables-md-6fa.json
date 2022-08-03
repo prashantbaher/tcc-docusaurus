@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-variables",
+  "id": "vba-variables",
+  "title": "VBA Variables",
+  "description": "VBA’s main purpose is to manipulate data. VBA stores the data in your computer’s memory; it may or may not end up on disk.",
+  "source": "@site/docs/vba/07-vba-variables.md",
+  "sourceDirName": ".",
+  "slug": "/vba-variables",
+  "permalink": "/vba/vba-variables",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "VBA Variables",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/variables/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programming Concepts, Comments and Data-types",
+    "permalink": "/vba/vba-programming-concepts"
+  },
+  "next": {
+    "title": "Declaring and Scoping of Variables",
+    "permalink": "/vba/vba-declaring-and-scoping-of-variables"
+  }
+}

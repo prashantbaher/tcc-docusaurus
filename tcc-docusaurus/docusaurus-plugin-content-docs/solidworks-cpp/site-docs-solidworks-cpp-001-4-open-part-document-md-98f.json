@@ -1,0 +1,36 @@
+{
+  "unversionedId": "open-part-document",
+  "id": "open-part-document",
+  "title": "Open Solidworks Part Document",
+  "description": "In this post, I tell you about how to Open Solidworks Part Document using Solidworks C++ API from Visual Studio.",
+  "source": "@site/docs/solidworks-cpp/001.4-open-part-document.md",
+  "sourceDirName": ".",
+  "slug": "/open-part-document",
+  "permalink": "/solidworks-cpp/open-part-document",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Solidworks C++ API",
+      "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "categories": "Solidworks-C++-API",
+    "title": "Open Solidworks Part Document",
+    "tags": [
+      "Solidworks C++ API"
+    ],
+    "permalink": "/solidworks-cpp/open-part-document/",
+    "id": "open-part-document"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Solidworks & Hello World",
+    "permalink": "/solidworks-cpp/open-solidworks"
+  },
+  "next": {
+    "title": "Browse and Open Solidworks Document",
+    "permalink": "/solidworks-cpp/browse-and-open-document"
+  }
+}

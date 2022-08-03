@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-arrays",
+  "id": "vba-arrays",
+  "title": "VBA Arrays",
+  "description": "Most programming languages support arrays. An array is a group of variables that share a common name.",
+  "source": "@site/docs/vba/14-vba-arrays.md",
+  "sourceDirName": ".",
+  "slug": "/vba-arrays",
+  "permalink": "/vba/vba-arrays",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "title": "VBA Arrays",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/arrays/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Assignment Statements And Operators",
+    "permalink": "/vba/vba-assignment-statement-and-operator"
+  },
+  "next": {
+    "title": "VBA Functions",
+    "permalink": "/vba/vba-functions"
+  }
+}

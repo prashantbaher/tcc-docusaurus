@@ -1,0 +1,44 @@
+{
+  "unversionedId": "vba-executing-procedures",
+  "id": "vba-executing-procedures",
+  "title": "Executing Sub and Function Procedures",
+  "description": "Although you may not know much about developing procedures at this point, I’m going to jump ahead a bit and discuss how to execute these procedures.",
+  "source": "@site/docs/vba/05-vba-executing-procedures.md",
+  "sourceDirName": ".",
+  "slug": "/vba-executing-procedures",
+  "permalink": "/vba/vba-executing-procedures",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Executing Sub and Function Procedures",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/executing-procedures/",
+    "author_profile": false,
+    "read_time": true,
+    "share": true,
+    "related": true,
+    "toc": true,
+    "toc_sticky": true,
+    "sidebar": {
+      "nav": "vba"
+    }
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sub and Function Procedures",
+    "permalink": "/vba/vba-sub-and-function-procedure"
+  },
+  "next": {
+    "title": "Programming Concepts, Comments and Data-types",
+    "permalink": "/vba/vba-programming-concepts"
+  }
+}

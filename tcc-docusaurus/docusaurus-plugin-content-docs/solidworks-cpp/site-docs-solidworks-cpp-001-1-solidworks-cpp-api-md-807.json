@@ -1,0 +1,32 @@
+{
+  "unversionedId": "solidworks-Cpp-Api",
+  "id": "solidworks-Cpp-Api",
+  "title": "Solidworks C++ API",
+  "description": "Disclaimer, this page is only for my learning purpose!!!",
+  "source": "@site/docs/solidworks-cpp/001.1-solidworks-Cpp-Api.md",
+  "sourceDirName": ".",
+  "slug": "/solidworks-Cpp-Api",
+  "permalink": "/solidworks-cpp/solidworks-Cpp-Api",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Solidworks C++ API",
+      "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solidworks C++ API",
+    "permalink": "/Solidworks-cpp-api-tutorials/",
+    "tags": [
+      "Solidworks C++ API"
+    ],
+    "toc": false,
+    "id": "solidworks-Cpp-Api"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Solidworks C++ API - Prerequisite",
+    "permalink": "/solidworks-cpp/cpp-prerequisite"
+  }
+}

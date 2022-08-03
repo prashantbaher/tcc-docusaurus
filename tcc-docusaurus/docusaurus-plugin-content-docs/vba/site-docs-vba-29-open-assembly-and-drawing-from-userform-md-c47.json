@@ -1,0 +1,26 @@
+{
+  "unversionedId": "open-assembly-and-drawing-from-userform",
+  "id": "open-assembly-and-drawing-from-userform",
+  "title": "VBA Userforms - Open new Assembly and Drawing document",
+  "description": "In this post, we learn how can we Open new Assembly and Drawing document from a Visual Basic for Application's Userform.",
+  "source": "@site/docs/vba/29-open-assembly-and-drawing-from-userform.md",
+  "sourceDirName": ".",
+  "slug": "/open-assembly-and-drawing-from-userform",
+  "permalink": "/vba/open-assembly-and-drawing-from-userform",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 29,
+  "frontMatter": {
+    "title": "VBA Userforms - Open new Assembly and Drawing document",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/open-assembly-and-drawing-from-userform/"
+  }
+}

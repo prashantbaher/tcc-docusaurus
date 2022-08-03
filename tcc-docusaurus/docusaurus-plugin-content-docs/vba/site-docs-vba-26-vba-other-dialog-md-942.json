@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-other-dialog",
+  "id": "vba-other-dialog",
+  "title": "VBA GetOpenFilename, GetSaveAsFilename and Getting a Folder Name",
+  "description": "If your VBA procedure needs to ask the user for a filename, you could use the InputBox function.",
+  "source": "@site/docs/vba/26-vba-other-dialog.md",
+  "sourceDirName": ".",
+  "slug": "/vba-other-dialog",
+  "permalink": "/vba/vba-other-dialog",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 26,
+  "frontMatter": {
+    "title": "VBA GetOpenFilename, GetSaveAsFilename and Getting a Folder Name",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/other-dialogs/"
+  }
+}

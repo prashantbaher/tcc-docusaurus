@@ -1,0 +1,26 @@
+{
+  "unversionedId": "testing-open-assembly-and-drawing-document-macro",
+  "id": "testing-open-assembly-and-drawing-document-macro",
+  "title": "VBA Userforms - Testing Open new Assembly and Drawing document",
+  "description": "Introduction",
+  "source": "@site/docs/vba/30-testing-open-assembly-and-drawing-document-macro.md",
+  "sourceDirName": ".",
+  "slug": "/testing-open-assembly-and-drawing-document-macro",
+  "permalink": "/vba/testing-open-assembly-and-drawing-document-macro",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA Macro Testing",
+      "permalink": "/vba/tags/vba-macro-testing"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "title": "VBA Userforms - Testing Open new Assembly and Drawing document",
+    "tags": [
+      "VBA Macro Testing"
+    ],
+    "permalink": "/vba/testing-open-assembly-and-drawing-document-macro/"
+  }
+}

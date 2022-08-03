@@ -1,0 +1,14 @@
+{
+  "label": "VC++",
+  "permalink": "/solidworks-cpp/tags/vc",
+  "allTagsPath": "/solidworks-cpp/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "browse-and-open-document",
+      "title": "Browse and Open Solidworks Document",
+      "description": "In this post, I tell you about how to Browse and Open Solidworks Document using Solidworks C++ API from Visual Studio.",
+      "permalink": "/solidworks-cpp/browse-and-open-document"
+    }
+  ]
+}

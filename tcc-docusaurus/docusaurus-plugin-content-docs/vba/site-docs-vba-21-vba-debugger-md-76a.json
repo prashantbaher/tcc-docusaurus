@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-debugger",
+  "id": "vba-debugger",
+  "title": "VBA Debugger",
+  "description": "In this section, I discuss the details of using the VBA debugging tools.",
+  "source": "@site/docs/vba/21-vba-debugger.md",
+  "sourceDirName": ".",
+  "slug": "/vba-debugger",
+  "permalink": "/vba/vba-debugger",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "title": "VBA Debugger",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/debugger/"
+  }
+}

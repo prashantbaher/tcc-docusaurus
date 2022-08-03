@@ -1,0 +1,38 @@
+{
+  "label": "Solidworks C++ API",
+  "permalink": "/solidworks-cpp/tags/solidworks-c-api",
+  "allTagsPath": "/solidworks-cpp/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "browse-and-open-document",
+      "title": "Browse and Open Solidworks Document",
+      "description": "In this post, I tell you about how to Browse and Open Solidworks Document using Solidworks C++ API from Visual Studio.",
+      "permalink": "/solidworks-cpp/browse-and-open-document"
+    },
+    {
+      "id": "open-solidworks",
+      "title": "Open Solidworks & Hello World",
+      "description": "In this post, I tell you about how to Open Solidworks using Solidworks C++ API from Visual Studio.",
+      "permalink": "/solidworks-cpp/open-solidworks"
+    },
+    {
+      "id": "open-part-document",
+      "title": "Open Solidworks Part Document",
+      "description": "In this post, I tell you about how to Open Solidworks Part Document using Solidworks C++ API from Visual Studio.",
+      "permalink": "/solidworks-cpp/open-part-document"
+    },
+    {
+      "id": "solidworks-Cpp-Api",
+      "title": "Solidworks C++ API",
+      "description": "Disclaimer, this page is only for my learning purpose!!!",
+      "permalink": "/solidworks-cpp/solidworks-Cpp-Api"
+    },
+    {
+      "id": "cpp-prerequisite",
+      "title": "Solidworks C++ API - Prerequisite",
+      "description": "In this post, I tell you what you need to start with Solidworks C++ API:",
+      "permalink": "/solidworks-cpp/cpp-prerequisite"
+    }
+  ]
+}

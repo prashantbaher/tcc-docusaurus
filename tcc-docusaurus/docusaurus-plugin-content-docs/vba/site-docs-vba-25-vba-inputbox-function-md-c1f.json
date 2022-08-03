@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-inputbox-function",
+  "id": "vba-inputbox-function",
+  "title": "VBA InputBox Function",
+  "description": "The VBA's InputBox function is useful for obtaining a single piece of information from the user.",
+  "source": "@site/docs/vba/25-vba-inputbox-function.md",
+  "sourceDirName": ".",
+  "slug": "/vba-inputbox-function",
+  "permalink": "/vba/vba-inputbox-function",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "title": "VBA InputBox Function",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/inputbox-function/"
+  }
+}

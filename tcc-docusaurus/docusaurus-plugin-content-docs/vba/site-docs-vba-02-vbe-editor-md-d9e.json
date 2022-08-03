@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vbe-editor",
+  "id": "vbe-editor",
+  "title": "Visual Basic Editor (VBE)",
+  "description": "Visual Basic Editor or VBE is a separate application in your CAD application.",
+  "source": "@site/docs/vba/02-vbe-editor.md",
+  "sourceDirName": ".",
+  "slug": "/vbe-editor",
+  "permalink": "/vba/vbe-editor",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Visual Basic Editor (VBE)",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/vba-vbe-editor/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Introduction",
+    "permalink": "/vba/vba-introduction"
+  },
+  "next": {
+    "title": "VBE Windows",
+    "permalink": "/vba/vbe-windows"
+  }
+}

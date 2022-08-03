@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-msgBox-function",
+  "id": "vba-msgBox-function",
+  "title": "VBA MsgBox Function",
+  "description": "You’re probably already familiar with the VBA MsgBox function — I use it quite a bit in the examples.",
+  "source": "@site/docs/vba/24-vba-msgBox-function.md",
+  "sourceDirName": ".",
+  "slug": "/vba-msgBox-function",
+  "permalink": "/vba/vba-msgBox-function",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "title": "VBA MsgBox Function",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/msgBox-function/"
+  }
+}

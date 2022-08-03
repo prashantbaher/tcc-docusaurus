@@ -1,0 +1,298 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "solidworks-cpp": {
+      "path": "/solidworks-cpp",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/solidworks-cpp",
+          "mainDocId": "solidworks-Cpp-Api",
+          "docs": [
+            {
+              "id": "browse-and-open-document",
+              "path": "/solidworks-cpp/browse-and-open-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cpp-prerequisite",
+              "path": "/solidworks-cpp/cpp-prerequisite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "open-part-document",
+              "path": "/solidworks-cpp/open-part-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "open-solidworks",
+              "path": "/solidworks-cpp/open-solidworks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "solidworks-Cpp-Api",
+              "path": "/solidworks-cpp/solidworks-Cpp-Api",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/solidworks-cpp/solidworks-Cpp-Api",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "vba": {
+      "path": "/vba",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/vba",
+          "mainDocId": "vba-introduction",
+          "docs": [
+            {
+              "id": "browse-solidworks-file",
+              "path": "/vba/browse-solidworks-file"
+            },
+            {
+              "id": "open-assembly-and-drawing-from-userform",
+              "path": "/vba/open-assembly-and-drawing-from-userform"
+            },
+            {
+              "id": "open-part-from-userform",
+              "path": "/vba/open-part-from-userform"
+            },
+            {
+              "id": "testing-open-assembly-and-drawing-document-macro",
+              "path": "/vba/testing-open-assembly-and-drawing-document-macro"
+            },
+            {
+              "id": "vba-arrays",
+              "path": "/vba/vba-arrays",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-assignment-statement-and-operator",
+              "path": "/vba/vba-assignment-statement-and-operator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-bug-finding",
+              "path": "/vba/vba-bug-finding"
+            },
+            {
+              "id": "vba-bug-reduction-tips",
+              "path": "/vba/vba-bug-reduction-tips"
+            },
+            {
+              "id": "vba-constant",
+              "path": "/vba/vba-constant",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-controlling-flow-making-desicions",
+              "path": "/vba/vba-controlling-flow-making-desicions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-debugger",
+              "path": "/vba/vba-debugger"
+            },
+            {
+              "id": "vba-declaring-and-scoping-of-variables",
+              "path": "/vba/vba-declaring-and-scoping-of-variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-dialog-boxes",
+              "path": "/vba/vba-dialog-boxes"
+            },
+            {
+              "id": "vba-executing-procedures",
+              "path": "/vba/vba-executing-procedures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-functions",
+              "path": "/vba/vba-functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-if-then-structure-select-case",
+              "path": "/vba/vba-if-then-structure-select-case",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-inputbox-function",
+              "path": "/vba/vba-inputbox-function"
+            },
+            {
+              "id": "vba-introduction",
+              "path": "/vba/vba-introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-looping",
+              "path": "/vba/vba-looping"
+            },
+            {
+              "id": "vba-more-function",
+              "path": "/vba/vba-more-function",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-msgBox-function",
+              "path": "/vba/vba-msgBox-function"
+            },
+            {
+              "id": "vba-other-dialog",
+              "path": "/vba/vba-other-dialog"
+            },
+            {
+              "id": "vba-programming-concepts",
+              "path": "/vba/vba-programming-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-publc-static-variable-life",
+              "path": "/vba/vba-publc-static-variable-life",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-string-basic",
+              "path": "/vba/vba-string-basic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-sub-and-function-procedure",
+              "path": "/vba/vba-sub-and-function-procedure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-userform",
+              "path": "/vba/vba-userform"
+            },
+            {
+              "id": "vba-variable-scope",
+              "path": "/vba/vba-variable-scope",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vba-variables",
+              "path": "/vba/vba-variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vbe-editor",
+              "path": "/vba/vbe-editor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vbe-windows",
+              "path": "/vba/vbe-windows",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/vba/vba-introduction",
+                "label": "VBA Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

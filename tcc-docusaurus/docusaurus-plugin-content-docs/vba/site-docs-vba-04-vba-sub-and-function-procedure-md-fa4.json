@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-sub-and-function-procedure",
+  "id": "vba-sub-and-function-procedure",
+  "title": "Sub and Function Procedures",
+  "description": "The VBA code that you write in the Visual Basic Editor is known as a procedure.",
+  "source": "@site/docs/vba/04-vba-sub-and-function-procedure.md",
+  "sourceDirName": ".",
+  "slug": "/vba-sub-and-function-procedure",
+  "permalink": "/vba/vba-sub-and-function-procedure",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Sub and Function Procedures",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/sub-and-function-procedure/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBE Windows",
+    "permalink": "/vba/vbe-windows"
+  },
+  "next": {
+    "title": "Executing Sub and Function Procedures",
+    "permalink": "/vba/vba-executing-procedures"
+  }
+}

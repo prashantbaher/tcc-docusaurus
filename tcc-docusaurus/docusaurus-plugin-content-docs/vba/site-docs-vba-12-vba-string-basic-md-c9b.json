@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-string-basic",
+  "id": "vba-string-basic",
+  "title": "VBA String Basics",
+  "description": "The String data type represents a series of characters. This topic introduces the basic concepts of strings in Visual Basic.",
+  "source": "@site/docs/vba/12-vba-string-basic.md",
+  "sourceDirName": ".",
+  "slug": "/vba-string-basic",
+  "permalink": "/vba/vba-string-basic",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "VBA String Basics",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/string-basic/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Constants",
+    "permalink": "/vba/vba-constant"
+  },
+  "next": {
+    "title": "VBA Assignment Statements And Operators",
+    "permalink": "/vba/vba-assignment-statement-and-operator"
+  }
+}

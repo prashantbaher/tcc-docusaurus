@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-looping",
+  "id": "vba-looping",
+  "title": "VBA Looping",
+  "description": "The term looping refers to repeating a block of VBA statements numerous times.",
+  "source": "@site/docs/vba/19-vba-looping.md",
+  "sourceDirName": ".",
+  "slug": "/vba-looping",
+  "permalink": "/vba/vba-looping",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "title": "VBA Looping",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/looping/"
+  }
+}

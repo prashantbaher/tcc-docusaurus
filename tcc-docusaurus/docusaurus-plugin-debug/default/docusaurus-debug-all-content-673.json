@@ -1,0 +1,1702 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\website\\docs-website\\sidebars.js",
+          "contentPath": "D:\\website\\docs-website\\docs\\demo",
+          "contentPathLocalized": "D:\\website\\docs-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/demo/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratulations",
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/demo/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/docs/tutorial-basics/congratulations",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-blog-post",
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/demo/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-document",
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/demo/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/docs/tutorial-basics/create-a-document",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/create-a-page",
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/demo/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/docs/tutorial-basics/create-a-page",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-your-site",
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/demo/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/markdown-features",
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/demo/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/demo/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/demo/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/docs/category/tutorial---extras"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "vba": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/vba",
+          "tagsPath": "/vba/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\website\\docs-website\\sidebars\\sidebars-vba.js",
+          "contentPath": "D:\\website\\docs-website\\docs\\vba",
+          "contentPathLocalized": "D:\\website\\docs-website\\i18n\\en\\docusaurus-plugin-content-docs-vba\\current",
+          "docs": [
+            {
+              "unversionedId": "browse-solidworks-file",
+              "id": "browse-solidworks-file",
+              "title": "VBA Userforms - Browse SOLIDWORKS file(s)",
+              "description": "Introduction",
+              "source": "@site/docs/vba/31-browse-solidworks-file.md",
+              "sourceDirName": ".",
+              "slug": "/browse-solidworks-file",
+              "permalink": "/vba/browse-solidworks-file",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 31,
+              "frontMatter": {
+                "title": "VBA Userforms - Browse SOLIDWORKS file(s)",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/browse-solidworks-file/"
+              }
+            },
+            {
+              "unversionedId": "open-assembly-and-drawing-from-userform",
+              "id": "open-assembly-and-drawing-from-userform",
+              "title": "VBA Userforms - Open new Assembly and Drawing document",
+              "description": "In this post, we learn how can we Open new Assembly and Drawing document from a Visual Basic for Application's Userform.",
+              "source": "@site/docs/vba/29-open-assembly-and-drawing-from-userform.md",
+              "sourceDirName": ".",
+              "slug": "/open-assembly-and-drawing-from-userform",
+              "permalink": "/vba/open-assembly-and-drawing-from-userform",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 29,
+              "frontMatter": {
+                "title": "VBA Userforms - Open new Assembly and Drawing document",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/open-assembly-and-drawing-from-userform/"
+              }
+            },
+            {
+              "unversionedId": "open-part-from-userform",
+              "id": "open-part-from-userform",
+              "title": "VBA Userforms - Open new Part document",
+              "description": "In this post, we learn how can we open a part document from a Visual Basic for Application's Userform.",
+              "source": "@site/docs/vba/28-open-part-from-userform.md",
+              "sourceDirName": ".",
+              "slug": "/open-part-from-userform",
+              "permalink": "/vba/open-part-from-userform",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 28,
+              "frontMatter": {
+                "title": "VBA Userforms - Open new Part document",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/open-part-from-userform/"
+              }
+            },
+            {
+              "unversionedId": "testing-open-assembly-and-drawing-document-macro",
+              "id": "testing-open-assembly-and-drawing-document-macro",
+              "title": "VBA Userforms - Testing Open new Assembly and Drawing document",
+              "description": "Introduction",
+              "source": "@site/docs/vba/30-testing-open-assembly-and-drawing-document-macro.md",
+              "sourceDirName": ".",
+              "slug": "/testing-open-assembly-and-drawing-document-macro",
+              "permalink": "/vba/testing-open-assembly-and-drawing-document-macro",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA Macro Testing",
+                  "permalink": "/vba/tags/vba-macro-testing"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 30,
+              "frontMatter": {
+                "title": "VBA Userforms - Testing Open new Assembly and Drawing document",
+                "tags": [
+                  "VBA Macro Testing"
+                ],
+                "permalink": "/vba/testing-open-assembly-and-drawing-document-macro/"
+              }
+            },
+            {
+              "unversionedId": "vba-arrays",
+              "id": "vba-arrays",
+              "title": "VBA Arrays",
+              "description": "Most programming languages support arrays. An array is a group of variables that share a common name.",
+              "source": "@site/docs/vba/14-vba-arrays.md",
+              "sourceDirName": ".",
+              "slug": "/vba-arrays",
+              "permalink": "/vba/vba-arrays",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "title": "VBA Arrays",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/arrays/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Assignment Statements And Operators",
+                "permalink": "/vba/vba-assignment-statement-and-operator"
+              },
+              "next": {
+                "title": "VBA Functions",
+                "permalink": "/vba/vba-functions"
+              }
+            },
+            {
+              "unversionedId": "vba-assignment-statement-and-operator",
+              "id": "vba-assignment-statement-and-operator",
+              "title": "VBA Assignment Statements And Operators",
+              "description": "An assignment statement is a VBA statement that assigns the result of an expression to a variable or an object.",
+              "source": "@site/docs/vba/13-vba-assignment-statement-and-operator.md",
+              "sourceDirName": ".",
+              "slug": "/vba-assignment-statement-and-operator",
+              "permalink": "/vba/vba-assignment-statement-and-operator",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "title": "VBA Assignment Statements And Operators",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/assignment-statement-and-operator/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA String Basics",
+                "permalink": "/vba/vba-string-basic"
+              },
+              "next": {
+                "title": "VBA Arrays",
+                "permalink": "/vba/vba-arrays"
+              }
+            },
+            {
+              "unversionedId": "vba-bug-finding",
+              "id": "vba-bug-finding",
+              "title": "Bug Finding",
+              "description": "A bug is an error in your programming. Here I cover the topic of programming bugs — how to identify them and how to remove them from your module.",
+              "source": "@site/docs/vba/20-vba-bug-finding.md",
+              "sourceDirName": ".",
+              "slug": "/vba-bug-finding",
+              "permalink": "/vba/vba-bug-finding",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 20,
+              "frontMatter": {
+                "title": "Bug Finding",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/bug-finding/"
+              }
+            },
+            {
+              "unversionedId": "vba-bug-reduction-tips",
+              "id": "vba-bug-reduction-tips",
+              "title": "VBA Bug Reduction Tips",
+              "description": "I can’t tell you how to completely eliminate bugs in your programs.",
+              "source": "@site/docs/vba/22-vba-bug-reduction-tips.md",
+              "sourceDirName": ".",
+              "slug": "/vba-bug-reduction-tips",
+              "permalink": "/vba/vba-bug-reduction-tips",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 22,
+              "frontMatter": {
+                "title": "VBA Bug Reduction Tips",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/bug-reduction-tips/"
+              }
+            },
+            {
+              "unversionedId": "vba-constant",
+              "id": "vba-constant",
+              "title": "VBA Constants",
+              "description": "A variable’s value may (and usually does) change while your procedure is executing.",
+              "source": "@site/docs/vba/11-vba-constant.md",
+              "sourceDirName": ".",
+              "slug": "/vba-constant",
+              "permalink": "/vba/vba-constant",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "title": "VBA Constants",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/constant/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Public, Static and Variable's Life",
+                "permalink": "/vba/vba-publc-static-variable-life"
+              },
+              "next": {
+                "title": "VBA String Basics",
+                "permalink": "/vba/vba-string-basic"
+              }
+            },
+            {
+              "unversionedId": "vba-controlling-flow-making-desicions",
+              "id": "vba-controlling-flow-making-desicions",
+              "title": "Controlling Program Flow and Making Decisions",
+              "description": "Some VBA procedures start at the code’s beginning and progress line by line to the end, never deviating from this top-to-bottom program flow.",
+              "source": "@site/docs/vba/17-vba-controlling-flow-making-desicions.md",
+              "sourceDirName": ".",
+              "slug": "/vba-controlling-flow-making-desicions",
+              "permalink": "/vba/vba-controlling-flow-making-desicions",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 17,
+              "frontMatter": {
+                "title": "Controlling Program Flow and Making Decisions",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/controlling-flow-making-desicions/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Functions that do more",
+                "permalink": "/vba/vba-more-function"
+              },
+              "next": {
+                "title": "If-Then-Else and Select Case structure",
+                "permalink": "/vba/vba-if-then-structure-select-case"
+              }
+            },
+            {
+              "unversionedId": "vba-debugger",
+              "id": "vba-debugger",
+              "title": "VBA Debugger",
+              "description": "In this section, I discuss the details of using the VBA debugging tools.",
+              "source": "@site/docs/vba/21-vba-debugger.md",
+              "sourceDirName": ".",
+              "slug": "/vba-debugger",
+              "permalink": "/vba/vba-debugger",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 21,
+              "frontMatter": {
+                "title": "VBA Debugger",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/debugger/"
+              }
+            },
+            {
+              "unversionedId": "vba-declaring-and-scoping-of-variables",
+              "id": "vba-declaring-and-scoping-of-variables",
+              "title": "Declaring and Scoping of Variables",
+              "description": "If you read the previous topics, you now know a bit about Variables and Data-types.",
+              "source": "@site/docs/vba/08-vba-declaring-and-scoping-of-variables.md",
+              "sourceDirName": ".",
+              "slug": "/vba-declaring-and-scoping-of-variables",
+              "permalink": "/vba/vba-declaring-and-scoping-of-variables",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "title": "Declaring and Scoping of Variables",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/declaring-and-scoping-of-variables/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Variables",
+                "permalink": "/vba/vba-variables"
+              },
+              "next": {
+                "title": "Variable Scope",
+                "permalink": "/vba/vba-variable-scope"
+              }
+            },
+            {
+              "unversionedId": "vba-dialog-boxes",
+              "id": "vba-dialog-boxes",
+              "title": "VBA Dialog Boxes",
+              "description": "You can’t use VBA very long without being exposed to dialog boxes.",
+              "source": "@site/docs/vba/23-vba-dialog-boxes.md",
+              "sourceDirName": ".",
+              "slug": "/vba-dialog-boxes",
+              "permalink": "/vba/vba-dialog-boxes",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 23,
+              "frontMatter": {
+                "title": "VBA Dialog Boxes",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/dialog-boxes/"
+              }
+            },
+            {
+              "unversionedId": "vba-executing-procedures",
+              "id": "vba-executing-procedures",
+              "title": "Executing Sub and Function Procedures",
+              "description": "Although you may not know much about developing procedures at this point, I’m going to jump ahead a bit and discuss how to execute these procedures.",
+              "source": "@site/docs/vba/05-vba-executing-procedures.md",
+              "sourceDirName": ".",
+              "slug": "/vba-executing-procedures",
+              "permalink": "/vba/vba-executing-procedures",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "title": "Executing Sub and Function Procedures",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/executing-procedures/",
+                "author_profile": false,
+                "read_time": true,
+                "share": true,
+                "related": true,
+                "toc": true,
+                "toc_sticky": true,
+                "sidebar": {
+                  "nav": "vba"
+                }
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sub and Function Procedures",
+                "permalink": "/vba/vba-sub-and-function-procedure"
+              },
+              "next": {
+                "title": "Programming Concepts, Comments and Data-types",
+                "permalink": "/vba/vba-programming-concepts"
+              }
+            },
+            {
+              "unversionedId": "vba-functions",
+              "id": "vba-functions",
+              "title": "VBA Functions",
+              "description": "A function essentially performs a calculation and returns a single value.",
+              "source": "@site/docs/vba/15-vba-functions.md",
+              "sourceDirName": ".",
+              "slug": "/vba-functions",
+              "permalink": "/vba/vba-functions",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 15,
+              "frontMatter": {
+                "title": "VBA Functions",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/functions/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Arrays",
+                "permalink": "/vba/vba-arrays"
+              },
+              "next": {
+                "title": "VBA Functions that do more",
+                "permalink": "/vba/vba-more-function"
+              }
+            },
+            {
+              "unversionedId": "vba-if-then-structure-select-case",
+              "id": "vba-if-then-structure-select-case",
+              "title": "If-Then-Else and Select Case structure",
+              "description": "If-Then is VBA’s most important control structure. You’ll probably use this command on a daily basis.",
+              "source": "@site/docs/vba/18-vba-if-then-structure-select-case.md",
+              "sourceDirName": ".",
+              "slug": "/vba-if-then-structure-select-case",
+              "permalink": "/vba/vba-if-then-structure-select-case",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 18,
+              "frontMatter": {
+                "title": "If-Then-Else and Select Case structure",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/if-then-structure-select-case/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Controlling Program Flow and Making Decisions",
+                "permalink": "/vba/vba-controlling-flow-making-desicions"
+              }
+            },
+            {
+              "unversionedId": "vba-inputbox-function",
+              "id": "vba-inputbox-function",
+              "title": "VBA InputBox Function",
+              "description": "The VBA's InputBox function is useful for obtaining a single piece of information from the user.",
+              "source": "@site/docs/vba/25-vba-inputbox-function.md",
+              "sourceDirName": ".",
+              "slug": "/vba-inputbox-function",
+              "permalink": "/vba/vba-inputbox-function",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 25,
+              "frontMatter": {
+                "title": "VBA InputBox Function",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/inputbox-function/"
+              }
+            },
+            {
+              "unversionedId": "vba-introduction",
+              "id": "vba-introduction",
+              "title": "VBA Introduction",
+              "description": "To understand Visual Basic for Application, lets look at the following questions.",
+              "source": "@site/docs/vba/01-vba-introduction.md",
+              "sourceDirName": ".",
+              "slug": "/vba-introduction",
+              "permalink": "/vba/vba-introduction",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "VBA Introduction",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/vba-Introduction/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Visual Basic Editor (VBE)",
+                "permalink": "/vba/vbe-editor"
+              }
+            },
+            {
+              "unversionedId": "vba-looping",
+              "id": "vba-looping",
+              "title": "VBA Looping",
+              "description": "The term looping refers to repeating a block of VBA statements numerous times.",
+              "source": "@site/docs/vba/19-vba-looping.md",
+              "sourceDirName": ".",
+              "slug": "/vba-looping",
+              "permalink": "/vba/vba-looping",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 19,
+              "frontMatter": {
+                "title": "VBA Looping",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/looping/"
+              }
+            },
+            {
+              "unversionedId": "vba-more-function",
+              "id": "vba-more-function",
+              "title": "VBA Functions that do more",
+              "description": "A few VBA functions go above and beyond the call of duty. Rather than simply return a value, these functions have some useful side effects.",
+              "source": "@site/docs/vba/16-vba-more-function.md",
+              "sourceDirName": ".",
+              "slug": "/vba-more-function",
+              "permalink": "/vba/vba-more-function",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 16,
+              "frontMatter": {
+                "title": "VBA Functions that do more",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/more-functions/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Functions",
+                "permalink": "/vba/vba-functions"
+              },
+              "next": {
+                "title": "Controlling Program Flow and Making Decisions",
+                "permalink": "/vba/vba-controlling-flow-making-desicions"
+              }
+            },
+            {
+              "unversionedId": "vba-msgBox-function",
+              "id": "vba-msgBox-function",
+              "title": "VBA MsgBox Function",
+              "description": "You’re probably already familiar with the VBA MsgBox function — I use it quite a bit in the examples.",
+              "source": "@site/docs/vba/24-vba-msgBox-function.md",
+              "sourceDirName": ".",
+              "slug": "/vba-msgBox-function",
+              "permalink": "/vba/vba-msgBox-function",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 24,
+              "frontMatter": {
+                "title": "VBA MsgBox Function",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/msgBox-function/"
+              }
+            },
+            {
+              "unversionedId": "vba-other-dialog",
+              "id": "vba-other-dialog",
+              "title": "VBA GetOpenFilename, GetSaveAsFilename and Getting a Folder Name",
+              "description": "If your VBA procedure needs to ask the user for a filename, you could use the InputBox function.",
+              "source": "@site/docs/vba/26-vba-other-dialog.md",
+              "sourceDirName": ".",
+              "slug": "/vba-other-dialog",
+              "permalink": "/vba/vba-other-dialog",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 26,
+              "frontMatter": {
+                "title": "VBA GetOpenFilename, GetSaveAsFilename and Getting a Folder Name",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/other-dialogs/"
+              }
+            },
+            {
+              "unversionedId": "vba-programming-concepts",
+              "id": "vba-programming-concepts",
+              "title": "Programming Concepts, Comments and Data-types",
+              "description": "Visual Basic for application (VBA) is a real, live programming language, it uses many elements common to all programming languages.",
+              "source": "@site/docs/vba/06-vba-programming-concepts.md",
+              "sourceDirName": ".",
+              "slug": "/vba-programming-concepts",
+              "permalink": "/vba/vba-programming-concepts",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "title": "Programming Concepts, Comments and Data-types",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/programming-concepts/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Executing Sub and Function Procedures",
+                "permalink": "/vba/vba-executing-procedures"
+              },
+              "next": {
+                "title": "VBA Variables",
+                "permalink": "/vba/vba-variables"
+              }
+            },
+            {
+              "unversionedId": "vba-publc-static-variable-life",
+              "id": "vba-publc-static-variable-life",
+              "title": "Public, Static and Variable's Life",
+              "description": "In the following sections we will discussed about following topics:",
+              "source": "@site/docs/vba/10-vba-publc-static-variable-life.md",
+              "sourceDirName": ".",
+              "slug": "/vba-publc-static-variable-life",
+              "permalink": "/vba/vba-publc-static-variable-life",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "title": "Public, Static and Variable's Life",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/publc-static-variable-life/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Variable Scope",
+                "permalink": "/vba/vba-variable-scope"
+              },
+              "next": {
+                "title": "VBA Constants",
+                "permalink": "/vba/vba-constant"
+              }
+            },
+            {
+              "unversionedId": "vba-string-basic",
+              "id": "vba-string-basic",
+              "title": "VBA String Basics",
+              "description": "The String data type represents a series of characters. This topic introduces the basic concepts of strings in Visual Basic.",
+              "source": "@site/docs/vba/12-vba-string-basic.md",
+              "sourceDirName": ".",
+              "slug": "/vba-string-basic",
+              "permalink": "/vba/vba-string-basic",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "title": "VBA String Basics",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/string-basic/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Constants",
+                "permalink": "/vba/vba-constant"
+              },
+              "next": {
+                "title": "VBA Assignment Statements And Operators",
+                "permalink": "/vba/vba-assignment-statement-and-operator"
+              }
+            },
+            {
+              "unversionedId": "vba-sub-and-function-procedure",
+              "id": "vba-sub-and-function-procedure",
+              "title": "Sub and Function Procedures",
+              "description": "The VBA code that you write in the Visual Basic Editor is known as a procedure.",
+              "source": "@site/docs/vba/04-vba-sub-and-function-procedure.md",
+              "sourceDirName": ".",
+              "slug": "/vba-sub-and-function-procedure",
+              "permalink": "/vba/vba-sub-and-function-procedure",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "title": "Sub and Function Procedures",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/sub-and-function-procedure/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBE Windows",
+                "permalink": "/vba/vbe-windows"
+              },
+              "next": {
+                "title": "Executing Sub and Function Procedures",
+                "permalink": "/vba/vba-executing-procedures"
+              }
+            },
+            {
+              "unversionedId": "vba-userform",
+              "id": "vba-userform",
+              "title": "VBA UserForms",
+              "description": "A UserForm is useful if your VBA macro needs to get information from a user.",
+              "source": "@site/docs/vba/27-vba-userform.md",
+              "sourceDirName": ".",
+              "slug": "/vba-userform",
+              "permalink": "/vba/vba-userform",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 27,
+              "frontMatter": {
+                "title": "VBA UserForms",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/userform/"
+              }
+            },
+            {
+              "unversionedId": "vba-variable-scope",
+              "id": "vba-variable-scope",
+              "title": "Variable Scope",
+              "description": "A variable’s scope determines which modules and procedures can use the variable.",
+              "source": "@site/docs/vba/09-vba-variable-scope.md",
+              "sourceDirName": ".",
+              "slug": "/vba-variable-scope",
+              "permalink": "/vba/vba-variable-scope",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "title": "Variable Scope",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/variable-scope/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Declaring and Scoping of Variables",
+                "permalink": "/vba/vba-declaring-and-scoping-of-variables"
+              },
+              "next": {
+                "title": "Public, Static and Variable's Life",
+                "permalink": "/vba/vba-publc-static-variable-life"
+              }
+            },
+            {
+              "unversionedId": "vba-variables",
+              "id": "vba-variables",
+              "title": "VBA Variables",
+              "description": "VBA’s main purpose is to manipulate data. VBA stores the data in your computer’s memory; it may or may not end up on disk.",
+              "source": "@site/docs/vba/07-vba-variables.md",
+              "sourceDirName": ".",
+              "slug": "/vba-variables",
+              "permalink": "/vba/vba-variables",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "title": "VBA Variables",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/variables/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Programming Concepts, Comments and Data-types",
+                "permalink": "/vba/vba-programming-concepts"
+              },
+              "next": {
+                "title": "Declaring and Scoping of Variables",
+                "permalink": "/vba/vba-declaring-and-scoping-of-variables"
+              }
+            },
+            {
+              "unversionedId": "vbe-editor",
+              "id": "vbe-editor",
+              "title": "Visual Basic Editor (VBE)",
+              "description": "Visual Basic Editor or VBE is a separate application in your CAD application.",
+              "source": "@site/docs/vba/02-vbe-editor.md",
+              "sourceDirName": ".",
+              "slug": "/vbe-editor",
+              "permalink": "/vba/vbe-editor",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "Visual Basic Editor (VBE)",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/vba-vbe-editor/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VBA Introduction",
+                "permalink": "/vba/vba-introduction"
+              },
+              "next": {
+                "title": "VBE Windows",
+                "permalink": "/vba/vbe-windows"
+              }
+            },
+            {
+              "unversionedId": "vbe-windows",
+              "id": "vbe-windows",
+              "title": "VBE Windows",
+              "description": "In this post we look following windows in Visual Basic Editor:",
+              "source": "@site/docs/vba/03-vbe-windows.md",
+              "sourceDirName": ".",
+              "slug": "/vbe-windows",
+              "permalink": "/vba/vbe-windows",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "VBA",
+                  "permalink": "/vba/tags/vba"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "title": "VBE Windows",
+                "tags": [
+                  "VBA"
+                ],
+                "permalink": "/vba/vba-windows/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Visual Basic Editor (VBE)",
+                "permalink": "/vba/vbe-editor"
+              },
+              "next": {
+                "title": "Sub and Function Procedures",
+                "permalink": "/vba/vba-sub-and-function-procedure"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsed": true,
+                "collapsible": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "VBA Introduction",
+                    "id": "vba-introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Visual Basic Editor",
+                    "id": "vbe-editor"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "VBE Windows",
+                    "id": "vbe-windows"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Sub and Function Procedures",
+                    "id": "vba-sub-and-function-procedure"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Executing Sub and Function",
+                    "id": "vba-executing-procedures"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Programming Concepts",
+                "collapsed": true,
+                "collapsible": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Programming Concepts, Comments and Data-types",
+                    "id": "vba-programming-concepts"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Variables",
+                    "id": "vba-variables"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Declaring and Scoping of Variables",
+                    "id": "vba-declaring-and-scoping-of-variables"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Variable Scope",
+                    "id": "vba-variable-scope"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Public, Static and Variable Life",
+                    "id": "vba-publc-static-variable-life"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Constants",
+                    "id": "vba-constant"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "String",
+                    "id": "vba-string-basic"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Assignment Statements And Operators",
+                    "id": "vba-assignment-statement-and-operator"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Arrays",
+                    "id": "vba-arrays"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Functions",
+                    "id": "vba-functions"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Functions that do more",
+                    "id": "vba-more-function"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Controlling Program Flow and Making Decisions",
+                    "id": "vba-controlling-flow-making-desicions"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "If-Then-Else and Select Case structure",
+                    "id": "vba-if-then-structure-select-case"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "solidworks-cpp": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/solidworks-cpp",
+          "tagsPath": "/solidworks-cpp/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\website\\docs-website\\sidebars\\sidebars-solidworks-cpp.js",
+          "contentPath": "D:\\website\\docs-website\\docs\\solidworks-cpp",
+          "contentPathLocalized": "D:\\website\\docs-website\\i18n\\en\\docusaurus-plugin-content-docs-solidworks-cpp\\current",
+          "docs": [
+            {
+              "unversionedId": "browse-and-open-document",
+              "id": "browse-and-open-document",
+              "title": "Browse and Open Solidworks Document",
+              "description": "In this post, I tell you about how to Browse and Open Solidworks Document using Solidworks C++ API from Visual Studio.",
+              "source": "@site/docs/solidworks-cpp/001.5-browse-and-open-document.md",
+              "sourceDirName": ".",
+              "slug": "/browse-and-open-document",
+              "permalink": "/solidworks-cpp/browse-and-open-document",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "Solidworks C++ API",
+                  "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+                },
+                {
+                  "label": "Managed C++",
+                  "permalink": "/solidworks-cpp/tags/managed-c"
+                },
+                {
+                  "label": "VC++",
+                  "permalink": "/solidworks-cpp/tags/vc"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "categories": "Solidworks-C++-API",
+                "title": "Browse and Open Solidworks Document",
+                "tags": [
+                  "Solidworks C++ API",
+                  "Managed C++",
+                  "VC++"
+                ],
+                "permalink": "/solidworks-cpp/browse-and-open-solidworks-document-managed-version/",
+                "id": "browse-and-open-document"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Open Solidworks Part Document",
+                "permalink": "/solidworks-cpp/open-part-document"
+              }
+            },
+            {
+              "unversionedId": "cpp-prerequisite",
+              "id": "cpp-prerequisite",
+              "title": "Solidworks C++ API - Prerequisite",
+              "description": "In this post, I tell you what you need to start with Solidworks C++ API:",
+              "source": "@site/docs/solidworks-cpp/001.2-cpp-prerequisite.mdx",
+              "sourceDirName": ".",
+              "slug": "/cpp-prerequisite",
+              "permalink": "/solidworks-cpp/cpp-prerequisite",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "Solidworks C++ API",
+                  "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "Solidworks C++ API - Prerequisite",
+                "tags": [
+                  "Solidworks C++ API"
+                ],
+                "categories": "Solidworks-C++-API",
+                "permalink": "/solidworks-cpp/Prerequisite/",
+                "id": "cpp-prerequisite"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Solidworks C++ API",
+                "permalink": "/solidworks-cpp/solidworks-Cpp-Api"
+              },
+              "next": {
+                "title": "Open Solidworks & Hello World",
+                "permalink": "/solidworks-cpp/open-solidworks"
+              }
+            },
+            {
+              "unversionedId": "open-part-document",
+              "id": "open-part-document",
+              "title": "Open Solidworks Part Document",
+              "description": "In this post, I tell you about how to Open Solidworks Part Document using Solidworks C++ API from Visual Studio.",
+              "source": "@site/docs/solidworks-cpp/001.4-open-part-document.md",
+              "sourceDirName": ".",
+              "slug": "/open-part-document",
+              "permalink": "/solidworks-cpp/open-part-document",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "Solidworks C++ API",
+                  "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "categories": "Solidworks-C++-API",
+                "title": "Open Solidworks Part Document",
+                "tags": [
+                  "Solidworks C++ API"
+                ],
+                "permalink": "/solidworks-cpp/open-part-document/",
+                "id": "open-part-document"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Open Solidworks & Hello World",
+                "permalink": "/solidworks-cpp/open-solidworks"
+              },
+              "next": {
+                "title": "Browse and Open Solidworks Document",
+                "permalink": "/solidworks-cpp/browse-and-open-document"
+              }
+            },
+            {
+              "unversionedId": "open-solidworks",
+              "id": "open-solidworks",
+              "title": "Open Solidworks & Hello World",
+              "description": "In this post, I tell you about how to Open Solidworks using Solidworks C++ API from Visual Studio.",
+              "source": "@site/docs/solidworks-cpp/001.3-open-solidworks.mdx",
+              "sourceDirName": ".",
+              "slug": "/open-solidworks",
+              "permalink": "/solidworks-cpp/open-solidworks",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "Solidworks C++ API",
+                  "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "categories": "Solidworks-C++-API",
+                "title": "Open Solidworks & Hello World",
+                "tags": [
+                  "Solidworks C++ API"
+                ],
+                "permalink": "/solidworks-cpp/open-solidworks/",
+                "id": "open-solidworks"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Solidworks C++ API - Prerequisite",
+                "permalink": "/solidworks-cpp/cpp-prerequisite"
+              },
+              "next": {
+                "title": "Open Solidworks Part Document",
+                "permalink": "/solidworks-cpp/open-part-document"
+              }
+            },
+            {
+              "unversionedId": "solidworks-Cpp-Api",
+              "id": "solidworks-Cpp-Api",
+              "title": "Solidworks C++ API",
+              "description": "Disclaimer, this page is only for my learning purpose!!!",
+              "source": "@site/docs/solidworks-cpp/001.1-solidworks-Cpp-Api.md",
+              "sourceDirName": ".",
+              "slug": "/solidworks-Cpp-Api",
+              "permalink": "/solidworks-cpp/solidworks-Cpp-Api",
+              "draft": false,
+              "tags": [
+                {
+                  "label": "Solidworks C++ API",
+                  "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "Solidworks C++ API",
+                "permalink": "/Solidworks-cpp-api-tutorials/",
+                "tags": [
+                  "Solidworks C++ API"
+                ],
+                "toc": false,
+                "id": "solidworks-Cpp-Api"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Solidworks C++ API - Prerequisite",
+                "permalink": "/solidworks-cpp/cpp-prerequisite"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsed": true,
+                "collapsible": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "label": "Introduction",
+                    "id": "solidworks-Cpp-Api"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Prerequisite",
+                    "id": "cpp-prerequisite"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Open Solidworks & Hello World",
+                    "id": "open-solidworks"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Open Solidworks Part Document",
+                    "id": "open-part-document"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Browse and Open Solidworks Document",
+                    "id": "browse-and-open-document"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/aboutme",
+        "source": "@site/src/pages/aboutme.md",
+        "title": "About",
+        "description": "Hello,",
+        "frontMatter": {
+          "title": "About"
+        }
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      },
+      {
+        "type": "mdx",
+        "permalink": "/resources",
+        "source": "@site/src/pages/resources.md",
+        "title": "Resources",
+        "description": "In this page, I have listed all the resources I used for learning programming languages and Solidworks API.",
+        "frontMatter": {
+          "title": "Resources"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "@easyops-cn/docusaurus-search-local": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

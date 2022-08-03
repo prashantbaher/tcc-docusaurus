@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-assignment-statement-and-operator",
+  "id": "vba-assignment-statement-and-operator",
+  "title": "VBA Assignment Statements And Operators",
+  "description": "An assignment statement is a VBA statement that assigns the result of an expression to a variable or an object.",
+  "source": "@site/docs/vba/13-vba-assignment-statement-and-operator.md",
+  "sourceDirName": ".",
+  "slug": "/vba-assignment-statement-and-operator",
+  "permalink": "/vba/vba-assignment-statement-and-operator",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "VBA Assignment Statements And Operators",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/assignment-statement-and-operator/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA String Basics",
+    "permalink": "/vba/vba-string-basic"
+  },
+  "next": {
+    "title": "VBA Arrays",
+    "permalink": "/vba/vba-arrays"
+  }
+}

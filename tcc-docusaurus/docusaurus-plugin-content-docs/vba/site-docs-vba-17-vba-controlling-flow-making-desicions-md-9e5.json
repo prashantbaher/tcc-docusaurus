@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-controlling-flow-making-desicions",
+  "id": "vba-controlling-flow-making-desicions",
+  "title": "Controlling Program Flow and Making Decisions",
+  "description": "Some VBA procedures start at the code’s beginning and progress line by line to the end, never deviating from this top-to-bottom program flow.",
+  "source": "@site/docs/vba/17-vba-controlling-flow-making-desicions.md",
+  "sourceDirName": ".",
+  "slug": "/vba-controlling-flow-making-desicions",
+  "permalink": "/vba/vba-controlling-flow-making-desicions",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "title": "Controlling Program Flow and Making Decisions",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/controlling-flow-making-desicions/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Functions that do more",
+    "permalink": "/vba/vba-more-function"
+  },
+  "next": {
+    "title": "If-Then-Else and Select Case structure",
+    "permalink": "/vba/vba-if-then-structure-select-case"
+  }
+}

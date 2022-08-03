@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-bug-finding",
+  "id": "vba-bug-finding",
+  "title": "Bug Finding",
+  "description": "A bug is an error in your programming. Here I cover the topic of programming bugs — how to identify them and how to remove them from your module.",
+  "source": "@site/docs/vba/20-vba-bug-finding.md",
+  "sourceDirName": ".",
+  "slug": "/vba-bug-finding",
+  "permalink": "/vba/vba-bug-finding",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Bug Finding",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/bug-finding/"
+  }
+}

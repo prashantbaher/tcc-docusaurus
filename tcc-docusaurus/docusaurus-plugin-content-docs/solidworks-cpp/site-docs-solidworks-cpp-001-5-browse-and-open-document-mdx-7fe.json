@@ -1,0 +1,42 @@
+{
+  "unversionedId": "browse-and-open-document",
+  "id": "browse-and-open-document",
+  "title": "Browse and Open Solidworks Document",
+  "description": "In this post, I tell you about how to Browse and Open Solidworks Document using Solidworks C++ API from Visual Studio.",
+  "source": "@site/docs/solidworks-cpp/001.5-browse-and-open-document.mdx",
+  "sourceDirName": ".",
+  "slug": "/browse-and-open-document",
+  "permalink": "/solidworks-cpp/browse-and-open-document",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Solidworks C++ API",
+      "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+    },
+    {
+      "label": "Managed C++",
+      "permalink": "/solidworks-cpp/tags/managed-c"
+    },
+    {
+      "label": "VC++",
+      "permalink": "/solidworks-cpp/tags/vc"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "categories": "Solidworks-C++-API",
+    "title": "Browse and Open Solidworks Document",
+    "tags": [
+      "Solidworks C++ API",
+      "Managed C++",
+      "VC++"
+    ],
+    "permalink": "/solidworks-cpp/browse-and-open-solidworks-document-managed-version/",
+    "id": "browse-and-open-document"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Solidworks Part Document",
+    "permalink": "/solidworks-cpp/open-part-document"
+  }
+}

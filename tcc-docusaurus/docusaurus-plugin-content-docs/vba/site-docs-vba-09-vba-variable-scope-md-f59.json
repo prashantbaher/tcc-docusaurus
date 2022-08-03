@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-variable-scope",
+  "id": "vba-variable-scope",
+  "title": "Variable Scope",
+  "description": "A variable’s scope determines which modules and procedures can use the variable.",
+  "source": "@site/docs/vba/09-vba-variable-scope.md",
+  "sourceDirName": ".",
+  "slug": "/vba-variable-scope",
+  "permalink": "/vba/vba-variable-scope",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Variable Scope",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/variable-scope/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Declaring and Scoping of Variables",
+    "permalink": "/vba/vba-declaring-and-scoping-of-variables"
+  },
+  "next": {
+    "title": "Public, Static and Variable's Life",
+    "permalink": "/vba/vba-publc-static-variable-life"
+  }
+}

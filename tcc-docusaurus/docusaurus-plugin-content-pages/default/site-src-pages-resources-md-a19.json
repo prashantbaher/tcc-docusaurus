@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/resources",
+  "source": "@site/src/pages/resources.md",
+  "title": "Resources",
+  "description": "In this page, I have listed all the resources I used for learning programming languages and Solidworks API.",
+  "frontMatter": {
+    "title": "Resources"
+  }
+}

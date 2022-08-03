@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-more-function",
+  "id": "vba-more-function",
+  "title": "VBA Functions that do more",
+  "description": "A few VBA functions go above and beyond the call of duty. Rather than simply return a value, these functions have some useful side effects.",
+  "source": "@site/docs/vba/16-vba-more-function.md",
+  "sourceDirName": ".",
+  "slug": "/vba-more-function",
+  "permalink": "/vba/vba-more-function",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "title": "VBA Functions that do more",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/more-functions/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Functions",
+    "permalink": "/vba/vba-functions"
+  },
+  "next": {
+    "title": "Controlling Program Flow and Making Decisions",
+    "permalink": "/vba/vba-controlling-flow-making-desicions"
+  }
+}

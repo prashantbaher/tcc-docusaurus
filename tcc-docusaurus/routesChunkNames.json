@@ -1,0 +1,337 @@
+{
+  "/__docusaurus/debug-3ab": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    }
+  },
+  "/__docusaurus/debug/config-d5a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    }
+  },
+  "/__docusaurus/debug/content-bd0": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-60e": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    }
+  },
+  "/__docusaurus/debug/metadata-7a7": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    }
+  },
+  "/__docusaurus/debug/registry-e53": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    }
+  },
+  "/__docusaurus/debug/routes-b1c": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-591-fcd"
+    }
+  },
+  "/aboutme-07a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---aboutmeb-75-981"
+    },
+    "content": "content---aboutmeaa-9-9ff"
+  },
+  "/markdown-page-8ce": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---aboutmeb-75-981"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/resources-27a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---aboutmeb-75-981"
+    },
+    "content": "content---resourcesa-19-eef"
+  },
+  "/search-2c5": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchaba-ba5"
+    }
+  },
+  "/solidworks-cpp/tags-af6": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__context": {
+      "plugin": "plugin---solidworks-cpp-tagsc-3-c-772"
+    },
+    "tags": "tags---solidworks-cpp-tagsdf-7-c7b"
+  },
+  "/solidworks-cpp/tags/managed-c-b13": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---solidworks-cpp-tagsc-3-c-772"
+    },
+    "tag": "tag---solidworks-cpp-tags-managed-c-3-a-7-e34"
+  },
+  "/solidworks-cpp/tags/solidworks-c-api-d1c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---solidworks-cpp-tagsc-3-c-772"
+    },
+    "tag": "tag---solidworks-cpp-tags-solidworks-c-api-9-dc-f6a"
+  },
+  "/solidworks-cpp/tags/vc-64c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---solidworks-cpp-tagsc-3-c-772"
+    },
+    "tag": "tag---solidworks-cpp-tags-vc-1-f-8-19d"
+  },
+  "/vba/tags-ea3": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__context": {
+      "plugin": "plugin---vba-tags-2-c-0-42c"
+    },
+    "tags": "tags---vba-tags-699-4c3"
+  },
+  "/vba/tags/vba-948": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---vba-tags-2-c-0-42c"
+    },
+    "tag": "tag---vba-tags-vba-59-a-1a7"
+  },
+  "/vba/tags/vba-macro-testing-b67": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---vba-tags-2-c-0-42c"
+    },
+    "tag": "tag---vba-tags-vba-macro-testingf-1-d-84f"
+  },
+  "/docs-7bb": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-3-ac-f45"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/tutorial---basics-d44": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+  },
+  "/docs/category/tutorial---extras-f09": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+  },
+  "/docs/intro-d4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introe-7-f-853"
+  },
+  "/docs/tutorial-basics/congratulations-888": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-congratulations-954-7e8"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-94a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-blog-post-98-f-4db"
+  },
+  "/docs/tutorial-basics/create-a-document-4ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-document-429-3af"
+  },
+  "/docs/tutorial-basics/create-a-page-0db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-page-441-2cb"
+  },
+  "/docs/tutorial-basics/deploy-your-site-d49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-deploy-your-site-9-cc-5c9"
+  },
+  "/docs/tutorial-basics/markdown-features-b3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-features-54-b-cd8"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-950": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versions-35-f-613"
+  },
+  "/docs/tutorial-extras/translate-your-site-89a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-sitea-67-da7"
+  },
+  "/solidworks-cpp-8bc": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---solidworks-cpp-tagsc-3-c-772"
+    },
+    "versionMetadata": "versionMetadata---solidworks-cppb-23-eea"
+  },
+  "/solidworks-cpp/browse-and-open-document-2b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---solidworks-cpp-browse-and-open-documentc-90-7ad"
+  },
+  "/solidworks-cpp/cpp-prerequisite-692": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---solidworks-cpp-cpp-prerequisitee-9-c-b95"
+  },
+  "/solidworks-cpp/open-part-document-cef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---solidworks-cpp-open-part-document-98-f-0b9"
+  },
+  "/solidworks-cpp/open-solidworks-d62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---solidworks-cpp-open-solidworks-091-bc0"
+  },
+  "/solidworks-cpp/solidworks-Cpp-Api-15d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---solidworks-cpp-solidworks-cpp-api-807-817"
+  },
+  "/vba-b51": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---vba-tags-2-c-0-42c"
+    },
+    "versionMetadata": "versionMetadata---vba-421-5b2"
+  },
+  "/vba/browse-solidworks-file-9e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-browse-solidworks-fileafb-aa9"
+  },
+  "/vba/open-assembly-and-drawing-from-userform-8e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-open-assembly-and-drawing-from-userformc-47-d2d"
+  },
+  "/vba/open-part-from-userform-7d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-open-part-from-userform-2-ec-e1c"
+  },
+  "/vba/testing-open-assembly-and-drawing-document-macro-a1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-testing-open-assembly-and-drawing-document-macro-8-df-256"
+  },
+  "/vba/vba-arrays-62e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-arrays-77-a-e82"
+  },
+  "/vba/vba-assignment-statement-and-operator-625": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-assignment-statement-and-operator-474-d5e"
+  },
+  "/vba/vba-bug-finding-812": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-bug-finding-7-e-1-cdc"
+  },
+  "/vba/vba-bug-reduction-tips-5ab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-bug-reduction-tips-6-df-0f0"
+  },
+  "/vba/vba-constant-100": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-constanta-93-1a6"
+  },
+  "/vba/vba-controlling-flow-making-desicions-3fa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-controlling-flow-making-desicions-9-e-5-b7b"
+  },
+  "/vba/vba-debugger-671": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-debugger-76-a-0ed"
+  },
+  "/vba/vba-declaring-and-scoping-of-variables-0ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-declaring-and-scoping-of-variables-889-6ec"
+  },
+  "/vba/vba-dialog-boxes-705": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-dialog-boxes-1-a-6-03a"
+  },
+  "/vba/vba-executing-procedures-b9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-executing-proceduresf-96-309"
+  },
+  "/vba/vba-functions-1b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-functions-28-d-2a4"
+  },
+  "/vba/vba-if-then-structure-select-case-4c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-if-then-structure-select-caseaa-2-e81"
+  },
+  "/vba/vba-inputbox-function-a44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-inputbox-functionc-1-f-4a1"
+  },
+  "/vba/vba-introduction-af9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-introduction-892-2bc"
+  },
+  "/vba/vba-looping-ce9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-looping-35-a-8a3"
+  },
+  "/vba/vba-more-function-1c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-more-function-034-e62"
+  },
+  "/vba/vba-msgBox-function-5af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-msg-box-functionf-5-f-f55"
+  },
+  "/vba/vba-other-dialog-9a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-other-dialog-942-c77"
+  },
+  "/vba/vba-programming-concepts-0b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-programming-conceptsa-6-f-ca1"
+  },
+  "/vba/vba-publc-static-variable-life-e6c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-publc-static-variable-lifecea-7c5"
+  },
+  "/vba/vba-string-basic-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-string-basicc-9-b-1a4"
+  },
+  "/vba/vba-sub-and-function-procedure-fd1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-sub-and-function-procedurefa-4-457"
+  },
+  "/vba/vba-userform-d3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-userform-255-638"
+  },
+  "/vba/vba-variable-scope-292": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-variable-scopef-59-666"
+  },
+  "/vba/vba-variables-ca1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vba-variables-6-fa-dc4"
+  },
+  "/vba/vbe-editor-6d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vbe-editord-9-e-773"
+  },
+  "/vba/vbe-windows-6a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---vba-vbe-windows-2-ab-239"
+  },
+  "/-7ca": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---aboutmeb-75-981"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

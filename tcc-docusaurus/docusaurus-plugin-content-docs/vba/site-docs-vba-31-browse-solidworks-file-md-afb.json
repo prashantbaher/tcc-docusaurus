@@ -1,0 +1,26 @@
+{
+  "unversionedId": "browse-solidworks-file",
+  "id": "browse-solidworks-file",
+  "title": "VBA Userforms - Browse SOLIDWORKS file(s)",
+  "description": "Introduction",
+  "source": "@site/docs/vba/31-browse-solidworks-file.md",
+  "sourceDirName": ".",
+  "slug": "/browse-solidworks-file",
+  "permalink": "/vba/browse-solidworks-file",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 31,
+  "frontMatter": {
+    "title": "VBA Userforms - Browse SOLIDWORKS file(s)",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/browse-solidworks-file/"
+  }
+}

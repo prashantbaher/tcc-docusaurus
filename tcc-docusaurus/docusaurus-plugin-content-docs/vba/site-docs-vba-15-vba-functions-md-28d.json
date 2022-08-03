@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-functions",
+  "id": "vba-functions",
+  "title": "VBA Functions",
+  "description": "A function essentially performs a calculation and returns a single value.",
+  "source": "@site/docs/vba/15-vba-functions.md",
+  "sourceDirName": ".",
+  "slug": "/vba-functions",
+  "permalink": "/vba/vba-functions",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "VBA Functions",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/functions/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Arrays",
+    "permalink": "/vba/vba-arrays"
+  },
+  "next": {
+    "title": "VBA Functions that do more",
+    "permalink": "/vba/vba-more-function"
+  }
+}

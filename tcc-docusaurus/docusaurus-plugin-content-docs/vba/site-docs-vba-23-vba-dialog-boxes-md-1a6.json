@@ -1,0 +1,26 @@
+{
+  "unversionedId": "vba-dialog-boxes",
+  "id": "vba-dialog-boxes",
+  "title": "VBA Dialog Boxes",
+  "description": "You can’t use VBA very long without being exposed to dialog boxes.",
+  "source": "@site/docs/vba/23-vba-dialog-boxes.md",
+  "sourceDirName": ".",
+  "slug": "/vba-dialog-boxes",
+  "permalink": "/vba/vba-dialog-boxes",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 23,
+  "frontMatter": {
+    "title": "VBA Dialog Boxes",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/dialog-boxes/"
+  }
+}

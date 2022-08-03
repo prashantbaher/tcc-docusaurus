@@ -1,0 +1,10 @@
+{
+  "type": "mdx",
+  "permalink": "/aboutme",
+  "source": "@site/src/pages/aboutme.md",
+  "title": "About",
+  "description": "Hello,",
+  "frontMatter": {
+    "title": "About"
+  }
+}

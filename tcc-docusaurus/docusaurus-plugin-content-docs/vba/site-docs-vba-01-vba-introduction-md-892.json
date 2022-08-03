@@ -1,0 +1,31 @@
+{
+  "unversionedId": "vba-introduction",
+  "id": "vba-introduction",
+  "title": "VBA Introduction",
+  "description": "To understand Visual Basic for Application, lets look at the following questions.",
+  "source": "@site/docs/vba/01-vba-introduction.md",
+  "sourceDirName": ".",
+  "slug": "/vba-introduction",
+  "permalink": "/vba/vba-introduction",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "VBA Introduction",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/vba-Introduction/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Visual Basic Editor (VBE)",
+    "permalink": "/vba/vbe-editor"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-declaring-and-scoping-of-variables",
+  "id": "vba-declaring-and-scoping-of-variables",
+  "title": "Declaring and Scoping of Variables",
+  "description": "If you read the previous topics, you now know a bit about Variables and Data-types.",
+  "source": "@site/docs/vba/08-vba-declaring-and-scoping-of-variables.md",
+  "sourceDirName": ".",
+  "slug": "/vba-declaring-and-scoping-of-variables",
+  "permalink": "/vba/vba-declaring-and-scoping-of-variables",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Declaring and Scoping of Variables",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/declaring-and-scoping-of-variables/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VBA Variables",
+    "permalink": "/vba/vba-variables"
+  },
+  "next": {
+    "title": "Variable Scope",
+    "permalink": "/vba/vba-variable-scope"
+  }
+}

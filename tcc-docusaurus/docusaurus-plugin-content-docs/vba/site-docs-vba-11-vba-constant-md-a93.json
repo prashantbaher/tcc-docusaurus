@@ -1,0 +1,35 @@
+{
+  "unversionedId": "vba-constant",
+  "id": "vba-constant",
+  "title": "VBA Constants",
+  "description": "A variable’s value may (and usually does) change while your procedure is executing.",
+  "source": "@site/docs/vba/11-vba-constant.md",
+  "sourceDirName": ".",
+  "slug": "/vba-constant",
+  "permalink": "/vba/vba-constant",
+  "draft": false,
+  "tags": [
+    {
+      "label": "VBA",
+      "permalink": "/vba/tags/vba"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "VBA Constants",
+    "tags": [
+      "VBA"
+    ],
+    "permalink": "/vba/constant/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Public, Static and Variable's Life",
+    "permalink": "/vba/vba-publc-static-variable-life"
+  },
+  "next": {
+    "title": "VBA String Basics",
+    "permalink": "/vba/vba-string-basic"
+  }
+}

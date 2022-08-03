@@ -1,0 +1,36 @@
+{
+  "unversionedId": "cpp-prerequisite",
+  "id": "cpp-prerequisite",
+  "title": "Solidworks C++ API - Prerequisite",
+  "description": "In this post, I tell you what you need to start with Solidworks C++ API:",
+  "source": "@site/docs/solidworks-cpp/001.2-cpp-prerequisite.mdx",
+  "sourceDirName": ".",
+  "slug": "/cpp-prerequisite",
+  "permalink": "/solidworks-cpp/cpp-prerequisite",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Solidworks C++ API",
+      "permalink": "/solidworks-cpp/tags/solidworks-c-api"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solidworks C++ API - Prerequisite",
+    "tags": [
+      "Solidworks C++ API"
+    ],
+    "categories": "Solidworks-C++-API",
+    "permalink": "/solidworks-cpp/Prerequisite/",
+    "id": "cpp-prerequisite"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solidworks C++ API",
+    "permalink": "/solidworks-cpp/solidworks-Cpp-Api"
+  },
+  "next": {
+    "title": "Open Solidworks & Hello World",
+    "permalink": "/solidworks-cpp/open-solidworks"
+  }
+}
