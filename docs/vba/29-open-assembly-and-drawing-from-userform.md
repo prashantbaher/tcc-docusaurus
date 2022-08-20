@@ -146,7 +146,7 @@ For this goto main `Sub procedure` inside the **main Module**.
 
 Code inside the main Module is as given below.
 
-{% highlight vb %}
+{% highlight vb showLineNumbers %}
 Dim swApp As Object
 Sub main()
 
@@ -156,7 +156,7 @@ End Sub
 
 To call our `Userform`, replace above code with below code:
 
-{% highlight vb %}
+{% highlight vb showLineNumbers %}
 ' Main function of our VBA program
 Sub main()
   ' Calling our window to show
@@ -198,7 +198,7 @@ For this we need to create an `Initialize Function`.
 
 Below `Code` is that `Initialize Function` which load document lists in our combobox.
 
-```vb
+```vb showLineNumbers
 ' Call when user load
 Private Sub UserForm_Initialize()
   ' Adding items in Combo Box and also set index to '0'
@@ -245,7 +245,7 @@ To add functionality in our `Open Selected Button`, just double click the `Open 
 
 This will add give some code behind the designer and opens the **code window** of Userform designer.
 
-```vb
+```vb showLineNumbers
 Private Sub OpenDocumentButton_Click()
 
 End Sub
@@ -255,7 +255,7 @@ We need to update this code for opening new part after clicking the button.
 
 For this replace all above code with below code.
 
-```vb
+```vb showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -296,7 +296,7 @@ Now I have added codes in **2 parts**.
 
 In **1st part** I added below code lines *at top* of the code window.
 
-```vb
+```vb showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application

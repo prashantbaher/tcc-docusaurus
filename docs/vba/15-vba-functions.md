@@ -31,7 +31,7 @@ This useful function displays a message in a pop-up dialog box.
 
 The first example uses VBA’s `Date` function to display the current system date in a message box:
 
-```vb
+```vb showLineNumbers
 Sub ShowDate()
   MsgBox Date
 End Sub
@@ -45,7 +45,7 @@ In fact, if you type an empty set of parentheses, the VBE will promptly remove t
 
 To get the system time, use the `Time` function. And if you want it all, use the `Now` function to return both the date and the time. 
 
-```vb
+```vb showLineNumbers
 Sub ShowDate()
   MsgBox Now
 End Sub
@@ -59,7 +59,7 @@ The `Len` function takes one argument: the `string`.
 
 When you execute this procedure, the *message box* displays **11** because the argument has **11** characters. 
 
-```vb
+```vb showLineNumbers
 Sub StringLength()
   Dim MyString As String
   Dim StringLength As Integer
@@ -73,7 +73,7 @@ End Sub
 
 The following procedure uses the `Fix` function, which returns the integer portion of a value — *the value without any decimal digits*: 
 
-```vb
+```vb showLineNumbers
 Sub GetIntegerPart()
   Dim MyValue As Double
   Dim IntValue As Integer
@@ -101,7 +101,7 @@ The following `Sub` procedure displays the size, in bytes, of the executable fil
 
 It finds this value by using the `FileLen` function. 
 
-```vb
+```vb showLineNumbers
 Sub GetFileSize()
   Dim TheFile As String
   TheFile “C:\ProgramFiles\Program File\SolidworksCorp\SLDWORKS\SLDWORKS.exe”
@@ -127,7 +127,7 @@ It simply returns the name of the folder in which the application (that is, *Sol
 
 The following procedure uses the `TypeName` function, which returns the type of the selection (as a `string`): 
 
-```vb
+```vb showLineNumbers
 Sub ShowSelectionType()
   Dim SelType As String
   SelType = TypeName(Selection)

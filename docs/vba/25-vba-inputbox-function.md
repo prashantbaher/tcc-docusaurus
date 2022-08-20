@@ -14,7 +14,7 @@ This is a good alternative to developing a `UserForm` when you need to get only 
 
 Here’s a simplified version of the syntax for the *InputBox* function:
 
-```vb
+```vb showLineNumbers
 ' InputBox syntax
 InputBox(prompt[, title][, default])
 ```
@@ -62,7 +62,7 @@ The InputBox function accepts the arguments listed in below.
 
 Here’s an example showing how you can use the *InputBox* function:
 
-```vb
+```vb showLineNumbers
 ' InputBox example
 TheName = InputBox("What is your name?", "Greetings")
 ```
@@ -85,7 +85,7 @@ If the string does contain a number, all is fine.
 
 If the user’s entry cannot be interpreted as a number, the code displays a message box.
 
-```vb
+```vb showLineNumbers
 ' InputBox example
 Sub GetDrawingSheetNumber()
   Dim NumberOfSheets as String

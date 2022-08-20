@@ -104,6 +104,87 @@ module.exports = {
           label: 'If-Then-Else and Select Case structure',
           id: 'vba-if-then-structure-select-case',
         },
+        {
+          type: 'doc',
+          label: 'Looping',
+          id: 'vba-looping',
+        },
+        {
+          type: 'doc',
+          label: 'Bug Finding',
+          id: 'vba-bug-finding',
+        },
+        {
+          type: 'doc',
+          label: 'Debugger',
+          id: 'vba-debugger',
+        },
+        {
+          type: 'doc',
+          label: 'Bug Reduction Tips',
+          id: 'vba-bug-reduction-tips',
+        },
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Dialog Boxes',
+      collapsed: true,
+      collapsible: true,
+      items: [
+        {
+          type: 'doc',
+          label: 'Dialog Boxes',
+          id: 'vba-dialog-boxes',
+        },
+        {
+          type: 'doc',
+          label: 'MsgBox Function',
+          id: 'vba-msgBox-function',
+        },
+        {
+          type: 'doc',
+          label: 'InputBox Function',
+          id: 'vba-inputbox-function',
+        },
+        {
+          type: 'doc',
+          label: 'GetOpenFilename, GetSaveAsFilename and Getting a Folder Name',
+          id: 'vba-other-dialog',
+        },
+      ]
+    },
+    {
+      type: 'category',
+      label: 'UserForms',
+      collapsed: true,
+      collapsible: true,
+      items: [
+        {
+          type: 'doc',
+          label: 'UserForms',
+          id: 'vba-userform',
+        },
+        {
+          type: 'doc',
+          label: 'Open new Part document',
+          id: 'open-part-from-userform',
+        },
+        {
+          type: 'doc',
+          label: 'Open new Assembly and Drawing document',
+          id: 'open-assembly-and-drawing-from-userform',
+        },
+        {
+          type: 'doc',
+          label: 'Testing Open new Assembly and Drawing document',
+          id: 'testing-open-assembly-and-drawing-document-macro',
+        },
+        {
+          type: 'doc',
+          label: 'Browse SOLIDWORKS file(s)',
+          id: 'browse-solidworks-file',
+        },
       ]
     }
   ]

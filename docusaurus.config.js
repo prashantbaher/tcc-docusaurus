@@ -58,6 +58,26 @@ const config = {
         sidebarCollapsible: true,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        path: 'docs/solidworks-csharp',
+        routeBasePath: 'solidworks-csharp',
+        id: 'solidworks-csharp',
+        sidebarPath: require.resolve('./sidebars/sidebars-solidworks-csharp.js'),
+        sidebarCollapsible: true,
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        path: 'docs/solidworks-macros',
+        routeBasePath: 'solidworks-macros',
+        id: 'solidworks-macros',
+        sidebarPath: require.resolve('./sidebars/sidebars-solidworks-vba.js'),
+        sidebarCollapsible: true,
+      },
+    ],
   ],
 
   themeConfig:
@@ -83,11 +103,11 @@ const config = {
             items: [
               {
                 label: 'Solidworks API + VBA',
-                to: '/docs/intro'
+                to: 'solidworks-macros/vba-in-solidworks'
               },
               {
                 label: 'Solidworks API + C#',
-                to: '/docs/intro'
+                to: 'solidworks-csharp/solidworks-CSharp-Api'
               },
               {
                 label: 'Solidworks API + C++',

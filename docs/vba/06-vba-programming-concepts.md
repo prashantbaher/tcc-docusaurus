@@ -32,7 +32,7 @@ You can use a complete line for your `comment` or insert your `comment` at the e
 
 The following example shows a `VBA` procedure with three `comments`, although they’re not necessarily good comments: 
 
-```vb
+```vb showLineNumbers
 Sub CommentDemo()
 '  This procedure does nothing of value
    x = 0   'x represents nothing
@@ -47,7 +47,7 @@ The *apostrophe* indicates a `comment` rule has one exception.
 
 For example, the following statement doesn’t contain a `comment`, even though it has an *apostrophe*: 
 
-```vb
+```vb showLineNumbers
 MsgBox = "Can't continue."
 ```
 
@@ -75,7 +75,7 @@ For example, the following procedure uses lots of `comments`, but they add nothi
 
 In this case, the code is clear enough without the comments. 
 
-```vb
+```vb showLineNumbers
 Sub BadComments()
 '  Declare variables
    Dim x As Integer

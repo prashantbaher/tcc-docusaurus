@@ -10,14 +10,14 @@ The `String` data type represents a series of characters. This topic introduces 
 
 An instance of a string can be assigned a value that represents a series of characters as shown in below example:
 
-```vb
+```vb showLineNumbers
 Dim MyString As String
 MyString = "This is an example of the String data type"
 ```
 
 A `String` variable can also accept any expression that evaluates to a string as shown in below example:
 
-```vb
+```vb showLineNumbers
 Dim OneString As String
 Dim TwoString As String
 OneString = "one, two, three, four, five"
@@ -33,7 +33,7 @@ This means that a quotation mark ("") within a string cannot be represented by a
 
 For example, the following code causes a compiler error:
 
-```vb
+```vb showLineNumbers
 Dim myString As String
 
 ' This line would cause an error.
@@ -50,7 +50,7 @@ To solve this problem, Visual Basic interprets two quotation marks in a string l
 
 The following example shows the correct way to include a quotation mark in a string:
 
-```vb
+```vb showLineNumbers
 ' The value of myString is: He said, "Look at this example!"
 myString = "He said, ""Look at this example!"" "
 ```
@@ -63,7 +63,7 @@ A string is *immutable*, which means its value cannot be changed once it has bee
 
 However, this does not prevent us from assigning more than one value to a string variable as shown in below example:
 
-```vb
+```vb showLineNumbers
 Dim myString As String = "This string is immutable"
 myString = "Or is it?"
 ```

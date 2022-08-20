@@ -30,7 +30,7 @@ For testing our VBA macro, we apply some checks so that macro perform same at al
 
 Below is code block where we want to apply our check.
 
-```vb
+```vb showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -79,12 +79,12 @@ For this, we need to put an `If` condition before opening a new document.
 
 Please see below code for condition.
 
-``` vb
+``` vb showLineNumbers
 ' Checking if we got template path
 If defaultTemplate = vbNullString Then
-    ' If template path is empty then show message and exit from procedure.
-    MsgBox "Failed to open " + DocumentTypeComboBox.Value + " template."
-    Exit Sub
+  ' If template path is empty then show message and exit from procedure.
+  MsgBox "Failed to open " + DocumentTypeComboBox.Value + " template."
+  Exit Sub
 End If
 ```
 
@@ -99,7 +99,7 @@ If template path is **empty** then
 
 After adding our check, procedure has following code.
 
-```vb
+```vb showLineNumbers
 ' Private function of Open New Part Button
 Private Sub OpenDocumentButton_Click()
 

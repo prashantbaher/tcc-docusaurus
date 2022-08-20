@@ -104,7 +104,7 @@ To add functionality in our `Open NewPart Button`, just double click the `Open N
 
 This will add give some code behind the designer and opens the **code window** of Userform designer.
 
-```vb
+```vb showLineNumbers
 Private Sub OpenNewPartButton_Click()
 
 End Sub
@@ -114,7 +114,7 @@ We need to update this code for opening new part after clicking the button.
 
 For this replace all above code with below code.
 
-```vb
+```vb showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -147,7 +147,7 @@ For this goto main `Sub procedure` inside the **main Module**.
 
 Code inside the main Module is as given below.
 
-```vb
+```vb showLineNumbers
 Dim swApp As Object
 Sub main()
 
@@ -157,7 +157,7 @@ End Sub
 
 To call our Userform, replace above code with below code:
 
-```vb
+```vb showLineNumbers
 ' Main function of our VBA program
 Sub main()
     ' Calling our window to show

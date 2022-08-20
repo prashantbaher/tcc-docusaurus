@@ -16,7 +16,7 @@ As shown in the following examples, you declare **constants** by using the `Cons
 
 The declaration statement also gives the constant its value: 
 
-```vb
+```vb showLineNumbers
 Const BlockLength As Integer = 4.
 Const BlockThickness = .5
 Const PartName As String = "Part Name:"
@@ -57,7 +57,7 @@ In general, you don’t need to know the value of these constants to use them.
 
 The following simple procedure uses a **built-in** constant `swDefaultTemplatePart` to select the default part template while opening a new file. 
 
-```vb
+```vb showLineNumbers
 set swPart = swApp.NewDocument(swApp.GetUserPreferenceStringValue _
     (swUserPreferenceStringValue_e.swDefaultTemplatePart),0,0,0)
 ```
@@ -68,7 +68,7 @@ It simply generates the direct path to open part document.
 
 To find the actual value of a built-in constant, use the "Immediate window" in the VBE, and execute a VBA statement such as the following: 
 
-```vb
+```vb showLineNumbers
 ?swDefaultTemplatePart
 ```
 

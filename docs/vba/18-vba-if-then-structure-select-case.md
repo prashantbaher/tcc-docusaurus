@@ -10,7 +10,7 @@ As in many other aspects of life, effective *decision-making* is the key to succ
 
 The `If-Then` structure has this basic syntax: 
 
-```vb
+```vb showLineNumbers
 If condition Then statements [Else elsestatements]
 ```
 
@@ -24,7 +24,7 @@ Sound confusing? Don’t worry; a few examples make this crystal clear.
 
 The following routine demonstrates the `If-Then` structure without the optional Else clause: 
 
-```vb
+```vb showLineNumbers
 Sub GoodMorning()
   If Time < 0.5 Then MsgBox “Good Morning.”
 End Sub
@@ -38,7 +38,7 @@ If Time is greater than or equal to *.5*, the routine ends and nothing happens.
 
 To display a different greeting if Time is greater than or equal to *.5*, add another *If-Then* statement after the first one: 
 
-```vb
+```vb showLineNumbers
 Sub GoodMorning2()
   If Time < 0.5 Then MsgBox “Good Morning.”
   If Time >= 0.5 Then MsgBox “Good Afternoon.”
@@ -55,7 +55,7 @@ Another approach to the preceding problem uses the `Else` clause.
 
 Here’s the same routine recoded to use the `If-Then-Else` structure: 
 
-```vb
+```vb showLineNumbers
 Sub GoodMorning3()
   If Time < 0.5 Then MsgBox “Good Morning.” Else _
   MsgBox “Good Afternoon.”
@@ -70,7 +70,7 @@ VBA provides a slightly different way of coding **If-Then-Else** constructs that
 
 Therefore, the `GoodMorning` procedure can be rewritten as: 
 
-```vb
+```vb showLineNumbers
 Sub GoodMorning4()
   If Time < 0.5 Then
     MsgBox “Good Morning.”
@@ -92,7 +92,7 @@ You have two options: Use three `If-Then` statements or use a nested `If-Then-El
 
 The first approach, the three statements, is simplest: 
 
-```vb
+```vb showLineNumbers
 Sub GoodMorning5()
   If Time < 0.5 Then Msg = “Morning.”
   If Time >= 0.5 And Time < 0.75 Then Msg = “Afternoon.”
@@ -107,7 +107,7 @@ The final `MsgBox` statement displays the greeting: *Good Morning, Good Afternoo
 
 The following routine performs the same action but uses an **If-Then-End If** structure: 
 
-```VB
+```vb showLineNumbers
 Sub GoodMorning6()
   Dim Msg As String
   If Time < 0.5 Then
@@ -135,7 +135,7 @@ But for larger applications in which speed is important, you should know about a
 
 The `ElseIf` syntax follows: 
 
-```vb
+```vb showLineNumbers
 If condition Then
 [statements]
 [Else condition-n Then
@@ -146,7 +146,7 @@ If condition Then
 
 Here’s how you can rewrite the `GreetMe` routine by using this syntax: 
 
-```vb
+```vb showLineNumbers
 Sub GoodMorning7()
   Dim Msg As String
   If Time < 0.5 Then
@@ -172,7 +172,7 @@ The `Select` Case structure is useful for decisions involving three or more opti
 
 The syntax for the `Select` Case structure follows: 
 
-```vb
+```vb showLineNumbers
 Select Case testexpression
 [Case expressionlist-n 
   [statements-n]]
@@ -189,7 +189,7 @@ The following example shows how to use the **Select Case structure**.
 
 This also shows another way to code the examples presented in the previous section: 
 
-```vb
+```vb showLineNumbers
 Sub SelectPartLength()
   Dim PartNumber As Integer
   Dim PartLength As Integer

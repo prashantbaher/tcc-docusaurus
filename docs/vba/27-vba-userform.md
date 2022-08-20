@@ -226,7 +226,7 @@ The macro that displays the dialog box must be in a VBA module — not in the Co
 
 The following procedure displays the dialog box named `UserForm1`:
 
-```vb
+```vb showLineNumbers
 ' Showing the UserForm
 Sub ShowDialogBox()
   UserForm.Show
@@ -252,7 +252,7 @@ For example, if you add a `CheckBox` control to a UserForm named `UserForm1`, th
 
 The following statement makes this control appear with a check mark:
 
-```vb
+```vb showLineNumbers
 UserForm1.CheckBox1.Value = True
 ```
 
@@ -260,7 +260,7 @@ Most of the time, you write the code for a UserForm in the UserForm’s code mod
 
 If that’s the case, you can omit the UserForm object qualifier and write the statement like this:
 
-```vb
+```vb showLineNumbers
 CheckBox1.Value = True
 ```
 
