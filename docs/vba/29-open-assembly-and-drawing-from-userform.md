@@ -12,7 +12,10 @@ For this please we need to do following steps as described below.
 
 Please see below video how visually we *Open new Assembly and Drawing document* in **Solidworks VBA macro Userform**.
 
-<iframe src="https://www.youtube.com/embed/AQ3Fyw78ExI" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AQ3Fyw78ExI" frameborder="0"
+allowfullscreen 
+width="100%"
+height="500"></iframe>
 
 Please note that there are **no explanation** in the video. 
 
@@ -198,7 +201,7 @@ For this we need to create an `Initialize Function`.
 
 Below `Code` is that `Initialize Function` which load document lists in our combobox.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Call when user load
 Private Sub UserForm_Initialize()
   ' Adding items in Combo Box and also set index to '0'
@@ -245,7 +248,7 @@ To add functionality in our `Open Selected Button`, just double click the `Open 
 
 This will add give some code behind the designer and opens the **code window** of Userform designer.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Private Sub OpenDocumentButton_Click()
 
 End Sub
@@ -255,7 +258,7 @@ We need to update this code for opening new part after clicking the button.
 
 For this replace all above code with below code.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -296,7 +299,7 @@ Now I have added codes in **2 parts**.
 
 In **1st part** I added below code lines *at top* of the code window.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application

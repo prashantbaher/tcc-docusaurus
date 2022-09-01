@@ -82,7 +82,7 @@ Just to let you know what you are in for, I’ve prepared a quick summary of wha
 
 This amazing program displays the result of 1 plus 1.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub AddThem()
     Sum = 1 + 1
     MsgBox ("The answer is " & Sum)

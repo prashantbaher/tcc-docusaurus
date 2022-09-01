@@ -24,7 +24,7 @@ Then you can write code to do whatever you want with the filename.
 
 The official syntax for the **GetOpenFilename** method is as follows:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' The GetOpenFilename method syntax
 object.GetOpenFilename ([fileFilter], [filterIndex], [title],[buttonText], [multiSelect])
 ```
@@ -89,20 +89,20 @@ This argument consists of pairs of file filter strings followed by the wild card
 
 If omitted, this argument defaults to the following:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' A GetOpenFilename example
 All Files (*.*), *.*
 ```
 
 Notice that this string consists of two parts:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 All Files (*.*)
 ```
 
 and
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 *.*
 ```
 
@@ -116,7 +116,7 @@ The procedure defines five file filters.
 
 Notice that I use the VBA line continuation sequence to set up the Filter variable; doing so helps simplify this rather complicated argument.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' A GetOpenFilename example
 Sub GetImportFileName()
   Dim Finfo As String
@@ -166,7 +166,7 @@ It’s up to you to write code that actually saves the file.
 
 The syntax for this method follows:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' The GetSaveAsFilename method syntax
 object.GetSaveAsFilename ([InitialFilename], [FileFilter], [FilterIndex], [Title], [ButtonText])
 ```
@@ -226,7 +226,7 @@ The following procedure displays a dialog box that allows the user to select a d
 
 The selected directory name (or “Canceled”) is then displayed by using the `MsgBox` function.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' FileDialog example
 Sub GetAFolder()
   With Application.FileDialog(msoFileDialogFolderPicker)

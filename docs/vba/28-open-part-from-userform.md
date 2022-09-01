@@ -12,7 +12,10 @@ For this please we need to do following steps as described below.
 
 Please see below video on **Solidworks VBA Macro - Open new Part document** in Solidwoks VBA Userforms.
 
-<iframe src="https://www.youtube.com/embed/pXMMSDeXEwo" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pXMMSDeXEwo" frameborder="0"
+allowfullscreen 
+width="100%"
+height="500"></iframe>
 
 Please note that there are **no explaination** in the video. 
 
@@ -104,7 +107,7 @@ To add functionality in our `Open NewPart Button`, just double click the `Open N
 
 This will add give some code behind the designer and opens the **code window** of Userform designer.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Private Sub OpenNewPartButton_Click()
 
 End Sub
@@ -114,7 +117,7 @@ We need to update this code for opening new part after clicking the button.
 
 For this replace all above code with below code.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -147,7 +150,7 @@ For this goto main `Sub procedure` inside the **main Module**.
 
 Code inside the main Module is as given below.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim swApp As Object
 Sub main()
 
@@ -157,7 +160,7 @@ End Sub
 
 To call our Userform, replace above code with below code:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Main function of our VBA program
 Sub main()
     ' Calling our window to show

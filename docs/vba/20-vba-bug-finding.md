@@ -106,7 +106,7 @@ Use these statements to print the value of one or more variables in the *Immedia
 
 Here’s an example that displays a message of "This condition is working fine". 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 If swPart Is Nothing Then
   Debug.Print "This condition is working fine."
 ```

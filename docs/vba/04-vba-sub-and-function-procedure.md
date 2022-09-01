@@ -29,7 +29,7 @@ The same goes for `Function procedure` that you develop with `VBA`.
 
 Every `Sub` procedure starts with the keyword **Sub** and ends with an **End Sub** statement. Here’s an example:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub Message()
    MsgBox "That’s all folks!"
 End Sub
@@ -49,7 +49,7 @@ Every `Function` procedure starts with the keyword **Function** and ends with an
 
 Here’s an example:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Function CubeRoot(number)
    CubeRoot = number ^ (1/3)
 End Function

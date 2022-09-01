@@ -30,7 +30,7 @@ For testing our VBA macro, we apply some checks so that macro perform same at al
 
 Below is code block where we want to apply our check.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -99,7 +99,7 @@ If template path is **empty** then
 
 After adding our check, procedure has following code.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Private function of Open New Part Button
 Private Sub OpenDocumentButton_Click()
 

@@ -168,7 +168,7 @@ To continue a single line of code (also known as `statement`) from one line to n
 
 Below is given the example of a single statement split into two lines:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 set swPart = swApp.NewDocument(swApp.GetUserPreferenceStringValue _
     (swUserPreferenceStringValue_e.swDefaultTemplatePart),0,0,0)
 ```
@@ -192,7 +192,7 @@ Ready to enter some `live code`, try the following steps:
 3. Go to COde Window.
 4. Type the following code into `Code window`:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub GuessName()
     Msg = "Is this a CAD Software?"
     Ans = MsgBox(Msg, vbYesNo)

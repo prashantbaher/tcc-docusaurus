@@ -12,7 +12,7 @@ For example, you can define an array of 12 string variables to hold the names of
 
 If you name the array `MonthNames`, you can refer to the first element of the array as `MonthNames(1)`, the second element as `MonthNames(2)`, and so on. 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim MonthNames("Jan", "Feb", "Mar", "April", "May", "Jun", "July", "Aug", "Sep", "Oct", "Nov", "Dec") As string
 print(MonthNames(1))    'print Feb
 ```
@@ -31,7 +31,7 @@ You do this by specifying the *first index number*, the keyword To, and the last
 
 The following example shows how to declare an array of **100 integers**: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim MyArray(1 To 100) As Integer
 ```
 
@@ -39,14 +39,14 @@ When you declare an `array`, you can choose to specify only the *upper index*.
 
 VBA assumes that 0 is the *lower index*. Therefore, both of the following statements declare the same *101-element* array: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim MyArray(1 To 100) As Integer
 Dim MyArray(1 To 100)
 ```
 
 If you want VBA to assume that **1** (rather than **0**) is the *lower index* for your arrays, include the following statement in the Declarations section of your module: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Base 1
 ```
 
@@ -54,7 +54,7 @@ This statement forces VBA to use **1** as the first index number for arrays that
 
 If above statement is present, the following statements are identical, both declaring a 100-element array: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim MyArray(1 To 100) As Integer
 Dim MyArray(1 To 100)
 ```

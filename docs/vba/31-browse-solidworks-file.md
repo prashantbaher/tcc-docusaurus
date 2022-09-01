@@ -182,7 +182,7 @@ This will add some code behind the designer.
 
 Now open the **code window** of Userform designer.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Private Sub CommandButton1_Click()
 
 End Sub
@@ -194,7 +194,7 @@ We need to update this code for opening new part after clicking the button.
 
 For this replace all above code with below code.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 
 ' Creating variable for Solidworks application
@@ -235,7 +235,7 @@ Now let us walk through **each line** in the above code, and **understand** the 
 
 I also give some link so that you can go through them if there are anything I explained in **previous posts**.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 ```
 
@@ -243,7 +243,7 @@ This line forces us to define every variable we are going to use.
 
 For more information please visit **[Solidworks Macros - Open new Part document](/solidworks-macros/open-new-document)** post.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Create variable for Solidworks application
 Dim swApp As SldWorks.SldWorks
 ```
@@ -254,14 +254,14 @@ Next is our button click event `BrowseDocumentButton_Click` procedure.
 
 This procedure hold all the *statements (instructions)* we give to computer.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Set Solidworks variable to Solidworks application
 Set swApp = Application.SldWorks
 ```
 
 In this line, we set the value of our Solidworks variable `swApp`; which we define earlier; to Solidworks application.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Solidworks file filter string
 Dim swFilter As String
 
@@ -274,14 +274,14 @@ Dim fileOptions As Long
 
 In above lines of code, we create SOLIDWORKS *files filter* string and *Method parameters*.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Set filters for different Solidworks files.
 Filter = "SOLIDWORKS Files (*.sldprt; *.sldasm; *.slddrw)|*.sldprt;*.sldasm;*.slddrw"
 ```
 
 In above line of code, we set filters for different SOLIDWORKS files.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Browse and get the Selected file name
 fileName = swApp.GetOpenFileName("Browse Document", "", swFilter, fileOptions, fileConfig, fileDispName)
 ```
@@ -316,7 +316,7 @@ Below image shows the opened window.
 
 ![browse-window](/assets/vba-images/browse-solidworks-files/browse-window.png "Browsing window")
 
-```vb
+```vb showlinenumbers
 ' Show the selected file's full path in text box
 SelectedFileTextBox.Text = fileName
 ```
@@ -358,7 +358,7 @@ Please see following steps for adding reference files:
 Now, replace code in *[Add Functionality to Button](#add-functionality-to-button)* with below code sample.
 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 
 ' Private function of Open New Part Button
@@ -406,7 +406,7 @@ Now let us walk through **each line** in the above code, and **understand** the 
 
 I also give some link so that you can go through them if there are anything I explained in **previous posts**.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 ```
 
@@ -418,14 +418,14 @@ Next is our button click event `BrowseDocumentButton_Click` procedure.
 
 This procedure hold all the *statements (instructions)* we give to computer.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Excel object
 Dim xlObj As Object
 ```
 
 In this line, we create object for **Microsoft Excel Application**.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' File dialog object
 Dim fDialog As Object
 
@@ -435,14 +435,14 @@ Dim strFile As String
 
 In above lines of code, we create `objects` for **File Dialog** and `string` for file name.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Create Excel object
 Set xlObj = CreateObject("Excel.Application")
 ```
 
 In above line of code, we create **Microsoft Excel Application** and set the value of excel object.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Create File dialog object by setting option 3
 Set fDialog = xlObj.FileDialog(3)
 ```
@@ -455,7 +455,7 @@ In above line of code, we create **File dialog** and set the value of file dialo
 
 **[MsoFileDialogType enumeration (Office)](https://docs.microsoft.com/en-us/office/vba/api/office.msofiledialogtype)**
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Setting different properties of file dialog
 With fDialog
   .Title = "Browse Document"  ' Title of window
@@ -498,7 +498,7 @@ Below image shows the **multi-selection** in opened window.
 
 ![multiple-select-window](/assets/vba-images/browse-solidworks-files/multiple-select-window.png "Multilpe file selection in Browsing window using MS Excel")
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Show the selected file's full path in text box
 SelectedFileTextBox.Text = fileName
 ```

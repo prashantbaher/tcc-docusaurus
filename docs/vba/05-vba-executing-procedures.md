@@ -39,7 +39,7 @@ Before I can do that, you need to enter a `Sub procedure` into a `VBA` module as
 * Open the VBE in *Solidworks*.
 * Enter the following code into your module
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub CubeRoot()
    Number = InputBox("Enter a positive number.")
    MsgBox number ^ (1/3) & "is the cube root."
@@ -91,7 +91,7 @@ Follow these steps if you want to give this a try:
 * Activate the `VBA` module that holds the `CubeRoot` routine.
 * Enter this new procedure (either above or below `CubeRoot` code — it makes no difference):
 
-   ```vb showLineNumbers
+   ```vb showlinenumbers showLineNumbers
    Sub NewSub()
       Call CubeRoot
    End Sub
@@ -114,7 +114,7 @@ Notice that this NewSub procedure simply executes the CubeRoot procedure.
 
 Try this simple function. Enter it into a VBA module:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Function CubeRoot()
    CubeRoot = number ^ (1/3)
 End Function
@@ -142,7 +142,7 @@ Because you can’t execute a `function` directly, you must call it from another
 
 Enter the following simple procedure in the same `VBA` module that contains the `CubeRoot` function:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub CubeRoot()
    Ans = CubeRoot(125)
    MsgBox Ans

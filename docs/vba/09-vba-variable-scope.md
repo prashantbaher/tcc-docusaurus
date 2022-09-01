@@ -28,7 +28,7 @@ You usually place `Dim` statements immediately after the `Sub` or `Function` sta
 
 The following example shows some procedure-only variables declared by using `Dim` statements: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub MySub()
   Dim x As Integer
   Dim First As Long
@@ -42,7 +42,7 @@ Notice that the last `Dim` statement in the preceding example doesn’t declare 
 
 By the way, you can also declare several variables with a single `Dim` statement, as in the following example: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim x As Integer, y As Integer, z As Integer
 Dim First As Long, Last As Double
 ```
@@ -51,7 +51,7 @@ Unlike some languages, **VBA** doesn’t allow you to declare a *group* of varia
 
 For example, though valid, the following statement does not declare all the variables as *Integers*: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim i, j, k As Integer
 ```
 

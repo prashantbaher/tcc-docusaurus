@@ -18,7 +18,7 @@ Keep reading to see exactly how it works.
 
 Here’s a simplified version of the syntax for the MsgBox function:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' MsgBox Structure
 MsgBox(prompt[, buttons][, title])
 ```
@@ -69,7 +69,7 @@ The following example simply displays a message and does not return a result.
 
 When the message is displayed, the code stops until the user clicks `OK`.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' MsgBox function Example
 Sub main()
   MsgBox "Hello, world!"
@@ -90,7 +90,7 @@ You can assign the result of the MsgBox function to a variable.
 
 In the following code, I use some built-in constants that make it easy to work with the values returned by `MsgBox`:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' MsgBox built-in constants Example
 Sub GetAnswer()
   Dim Ans as Integer
@@ -114,7 +114,7 @@ The `Select` Case statement uses the `Ans` value to determine which action the c
 
 You can also use the `MsgBox` function result without using a variable, as the following example demonstrates:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' MsgBox without variable
 Sub GetAnswer2()
   If MsgBox ("Continue?", vbYesNo) = vbYes Then
@@ -240,7 +240,7 @@ For using more than one of these constants as an argument, just connect them wit
 
 For example, to display a message box with `Yes` and `No` buttons and an exclamation icon, use the following expression as the second *MsgBox* argument:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Using multiple MsgBox built-in constants
 vbYesNo + vbExclamation
 ```
@@ -253,7 +253,7 @@ The constant `vbDefaultButton2` designates the second button (`No`) as the defau
 
 For simplicity, we assign these constants to the `Config` variable and then use `Config` as the second argument in the *MsgBox* function:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Using multiple MsgBox built-in constants
 Sub GetAnswer3()
   Dim Config As Integer

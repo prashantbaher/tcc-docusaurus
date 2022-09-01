@@ -14,7 +14,7 @@ We will go through them in following topics:
 
 The simplest type of loop is a `For-Next` loop. Here’s the syntax for this structure:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 For counter = start To end [Step stepval]
 [statements]
 [Exit For]
@@ -34,7 +34,7 @@ The following example shows a `For-Next` loop that doesn’t use the optional St
 
 This routine loops 10 times and uses the VBA `MsgBox` function to show a number from 1 to 10: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub ShowNumbers1()
   Dim i As Integer
   For i = 1 to 10
@@ -51,7 +51,7 @@ The first time through the *loop*, `i` is 1 and the procedure shows a number.
 
 The second time through (i = 2), the procedure show a number, and so on. 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub ShowNumbers2()
   Dim i As Integer Step 2
   For i = 1 to 10
@@ -72,7 +72,7 @@ When VBA encounters this statement, the loop terminates immediately.
 
 Here’s the same procedure as in the preceding section, rewritten to insert random numbers. 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub ShowNumbers3()
   Dim i As Integer Step 2
   For i = 1 to 10
@@ -95,7 +95,7 @@ Unlike a For-Next loop, a `Do-While` loop continues until a specified condition 
 
 Here’s the `Do-While` loop syntax:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Do-While Structure
 Do [While condition]
   [statements]
@@ -108,7 +108,7 @@ The following example uses a `Do-While` loop. This routine uses 1 as a starting 
 
 The loop continues until the routine encounter the condition of `i = 8`. 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Do-While Example
 Sub ShowNumbers4()
   Dim i As Integer
@@ -123,7 +123,7 @@ Some people prefer to code a `Do-While` loop as a `Do-Loop While` loop.
 
 This example performs exactly as the previous procedure but uses different loop syntax:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Do-Loop While Example
 Sub ShowNumbers5()
   Dim i As Integer
@@ -154,7 +154,7 @@ A program continues to execute a `Do-While` loop while the condition remains tru
 
 In a `Do-Until` loop, the program executes the loop until the condition is true. Here’s the `Do-Until` syntax: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' Do-Until Structure
 Do [Until condition]
   [statements]
@@ -165,7 +165,7 @@ Loop
 
 The following example is the same one presented for the `Do-While` loop but recoded to use a `Do-Until` loop: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub ShowNumbers6()
   Dim i As Integer
   Do Until i <> 8
@@ -179,7 +179,7 @@ Just like with the `Do-While` loop, you may encounter a different form of the `D
 
 The following example, which has the same effect as the preceding procedure, demonstrates an alternate syntax for this type of loop: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Sub ShowNumbers7()
 ' Do-Loop Until Example
   Dim i As Integer
@@ -216,7 +216,7 @@ For example, a drawing file in any CAD application is a collection of Sheets, an
 
 When you need to loop through each object in a collection, use the For Each-Next structure. The syntax is 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' For Each-Next Structure
 For Each element In collection
   [statements]
@@ -227,7 +227,7 @@ Next [element]
 
 The following example loops through each drawing sheet in the active drawing and shows name of each active drawing sheet: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 ' For Each-Next Example
 Option Explicit
 Dim swApp As SldWorks.SldWorks

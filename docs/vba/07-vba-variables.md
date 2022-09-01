@@ -20,7 +20,7 @@ The `variable` names in these examples appear on both the left and right sides o
 
 Note that the last example uses two `variables`.
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 x = 1
 InterestRate = 0.075
 LoanPayoffAmount = 243089

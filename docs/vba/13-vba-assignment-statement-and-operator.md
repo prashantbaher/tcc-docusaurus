@@ -22,7 +22,7 @@ A VBA expression, on the other hand, can be assigned to a variable.
 
 In the assignment statement examples that follow, the expressions are to the right of the equal sign: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 X = 1
 X = x + 1
 X = (y * 2) / (z * 2)
@@ -40,7 +40,7 @@ You’re probably accustomed to using an `equal` sign as a mathematical symbol f
 
 Therefore, an assignment statement like the following may cause you to raise your eyebrows: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 x = x + 1
 ```
 
@@ -150,7 +150,7 @@ You can use *parentheses* to change the natural precedence order, making whateve
 
 Take a look at this code: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 z = x + 5 * y
 ```
 
@@ -166,7 +166,7 @@ By the way, I can never remember how operator precedence works, so I tend to use
 
 For example, in real life I would write that last assignment statement like this: 
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 z = x + (5 * y)
 ```
 

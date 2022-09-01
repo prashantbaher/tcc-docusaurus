@@ -26,7 +26,7 @@ If `VBA` knows a *variable’s data type*, it doesn’t have to investigate and 
 
 To force yourself to declare all the variables you use, include the following as the first statement in your `VBA` module:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Option Explicit
 ```
 
@@ -42,7 +42,7 @@ Suppose that you use an *undeclared variable* (that is, a `Variant`) named `myDi
 
 At some point in your routine, you insert the following statement:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 myDimnsion = 11
 ```
 
@@ -70,7 +70,7 @@ The most common way is to use a `Dim` statement.
 
 Here are some examples of variables being declared:
 
-```vb showLineNumbers
+```vb showlinenumbers showLineNumbers
 Dim YourName as String
 Dim PartLength as Long
 Dim bRet as Boolean
