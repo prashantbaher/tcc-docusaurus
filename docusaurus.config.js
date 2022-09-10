@@ -179,7 +179,11 @@ const config = {
         showLineNumbers: false
       },
       docs: {
-        sidebar: {hideable: true}
+        sidebar: 
+        {
+          hideable: true,
+          autoCollapseCategories: true,
+        }
       }
     }),
     themes: [
