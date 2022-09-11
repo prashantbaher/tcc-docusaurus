@@ -14,8 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'assets/logo.png',
   organizationName: 'prashantbaher', // Usually your GitHub org/user name.
-  projectName: 'tcc-blog', // Usually your repo name.
-  deploymentBranch: 'master',
+  projectName: 'tcc-docusaurus', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   presets: [
     [
@@ -198,6 +198,8 @@ const config = {
       [
         require.resolve("@easyops-cn/docusaurus-search-local"),
         {
+          indexDocs: true,
+          indexPages: true,
           hashed: true,
         },
       ],
