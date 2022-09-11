@@ -4,7 +4,7 @@ tags:   [VBA]
 permalink: /vba/declaring-and-scoping-of-variables/
 ---
 
-If you read the previous topics, you now know a bit about [Variables](/vba/variables) and [Data-types](/vba/programming-concepts#data-types-in-vba). 
+If you read the previous topics, you now know a bit about [Variables](/vba/vba-variables) and [Data-types](/vba/vba-programming-concepts#data-types-in-vba). 
 
 In this topic, you discover how to **declare** a `variable` as a certain *data type*.
 
