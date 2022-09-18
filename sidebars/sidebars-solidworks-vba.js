@@ -636,6 +636,11 @@ module.exports = {
           label: 'Show Component',
           id: 'assembly-show-component',
         },
+        {
+          type: 'doc',
+          label: 'Suppress Component',
+          id: 'assembly-suppress-component',
+        },
       ],
     },
     {
