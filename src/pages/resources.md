@@ -2,6 +2,8 @@
 title: Resources
 ---
 
+<script>window.location.reload(true);</script> 
+
 # Resources
 
 In this page, I have listed all the **resources** I used for learning **programming languages and Solidworks API**. 

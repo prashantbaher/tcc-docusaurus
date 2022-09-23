@@ -2,6 +2,8 @@
 title: About
 ---
 
+<script>window.location.reload(true);</script> 
+
 # About Me
 
 Hello, 

@@ -6,6 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
+<script>window.location.reload(true);</script> 
+
 # Privacy Policy
 
 The following statements describes the `privacy practices` for:
